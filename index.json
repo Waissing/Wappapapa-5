@@ -3053,8 +3053,12 @@
       "sha1": "ee2b59a9f91485fae308dc667fe0cbff0c545217"
     },
     {
-      "path": "overrides/mods/wappatweaks-0.1.0.jar",
-      "sha1": "4d681900e257acba8aa1678c8050fa3416b49945"
+      "path": "overrides/mods/wappa-modfilter-client-0.2.0.jar",
+      "sha1": "3033198bbe0c4b69a3ba480c21d05d31c117c4e4"
+    },
+    {
+      "path": "overrides/mods/wappatweaks-0.2.0.jar",
+      "sha1": "3e02c2f8ec47d7844c80190f3a345f37611152b2"
     },
     {
       "path": "overrides/options.txt",
