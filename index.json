@@ -29,10 +29,6 @@
       "sha1": "ee71a78b5bea0196f23d320917323496d5c20433"
     },
     {
-      "path": "content/mods/analog-audio.json",
-      "sha1": "9916f6cb5aa48349420e41211dee3a94fdc916d3"
-    },
-    {
       "path": "content/mods/another-furniture.json",
       "sha1": "69242188d87e2016f354692cf2068361827e9757"
     },
@@ -275,6 +271,10 @@
     {
       "path": "content/mods/esf.json",
       "sha1": "1dee429130ef629e27c4bd8d7fad9cd0f8543b9a"
+    },
+    {
+      "path": "content/mods/etched.json",
+      "sha1": "8133af9d8101d7eb4c59cfa5f96a35e0449ebd5f"
     },
     {
       "path": "content/mods/every-compat.json",

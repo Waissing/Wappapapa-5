@@ -15,7 +15,6 @@
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.6`
-- [Analog Audio](https://modrinth.com/project/analog-audio) `0.1.0+1.21.1`
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.2`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.8+neoforge`
@@ -73,6 +72,7 @@
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
 - [Envelope](https://modrinth.com/project/envelope) `0.6.2`
 - [Environmental](https://modrinth.com/project/environmental) `5.0.1`
+- [Etched](https://modrinth.com/project/etched)
 - [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.46`
 - [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.1.2`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`

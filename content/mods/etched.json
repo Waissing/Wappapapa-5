@@ -1,0 +1,16 @@
+{
+  "name": "Etched",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zi3Fnfmc",
+      "slug": "etched"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
