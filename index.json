@@ -65,10 +65,6 @@
       "sha1": "f3cbedff78e5c223a5c69c1de44bce0668d914b4"
     },
     {
-      "path": "content/mods/better-clouds.json",
-      "sha1": "06f29faa22687bfb374cd2e98d108fd4093e1b41"
-    },
-    {
       "path": "content/mods/better-ping-display.json",
       "sha1": "e1f5d6e1b8ba98f8e2187c6e032b1a4245fdcc65"
     },
@@ -798,7 +794,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "5c1cd8bf1127f793c441f24609d7f488b7c5ff70"
+      "sha1": "2c64f1bd8c7612c42b9c62297181d71aa810a397"
     },
     {
       "path": "content/mods/yungs-api.json",
@@ -2154,11 +2150,11 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "1279845c4284b6f07d8dd50c45370cb912381c4a"
+      "sha1": "25d5735c3a26ef3297c996582100600df2137388"
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",
-      "sha1": "132f7c1147a1a77d2d63cc61d4befab76c1203dd"
+      "sha1": "92e92f34fa3c82b715c4f9860ca8c0961c8cd839"
     },
     {
       "path": "overrides/config/wakes-client.toml",
