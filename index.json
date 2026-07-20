@@ -825,10 +825,6 @@
       "sha1": "ea2ed344d50f76f5769c562edd24382b8a9f162c"
     },
     {
-      "path": "overrides/TrashSlotSaveState.json",
-      "sha1": "8189852b8c4a3a05f53496b84bf3c1f7d359cec2"
-    },
-    {
       "path": "overrides/config/DistantHorizons.toml",
       "sha1": "8ea12dbcaed68d02ab8ed8143d213b023c408bec"
     },
@@ -2217,10 +2213,6 @@
       "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
     },
     {
-      "path": "overrides/exposure_catalog_state.json",
-      "sha1": "4c32827a912d0f99627d7a5d1ac40e2b52d42bc1"
-    },
-    {
       "path": "overrides/icon.png",
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
     },
@@ -3065,14 +3057,6 @@
       "sha1": "b38ee215eb8745bbf845ffcc9ee7ddfec1bdf3ab"
     },
     {
-      "path": "overrides/polytone_popup.json",
-      "sha1": "b23971ac67c30bc08b23387f9712381982fe2180"
-    },
-    {
-      "path": "overrides/ponders_watched_azimuth.json",
-      "sha1": "f1bb7598a6bf1f4fafc382afe2d64ae8a07abb09"
-    },
-    {
       "path": "overrides/resourcepacks/.index/authentic-shadows.pw.toml",
       "sha1": "5b3b67a6fce0699f3cc47b8988522f9f89afb2e9"
     },
@@ -3199,10 +3183,6 @@
     {
       "path": "overrides/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip",
       "sha1": "06032557b84a41a28e3473f483b34cb6737002b0"
-    },
-    {
-      "path": "overrides/temp_image_dump.png",
-      "sha1": "3fd1b39afd2de3d041ec0f79777e1d7ca0493b99"
     }
   ]
 }
