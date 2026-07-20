@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 207 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 206 mods
 
 ## Contents
 
@@ -164,7 +164,6 @@
 - [Scaffolding Drops Nearby](https://modrinth.com/project/scaffolding-drops-nearby) `1.21.1-3.4-fabric+forge+neo`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Separate Sable Render Distance (Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.1`
-- [Shadow Drop](https://modrinth.com/project/shadow-drop) `1.1.1-1.21.1-neoforge`
 - [Shoulder Surfing Reloaded](https://modrinth.com/project/shoulder-surfing-reloaded) `1.21.1-5.0.5+neoforge`
 - [Simple Music Control](https://modrinth.com/project/simple-music-control) `1.3.7+1.21.1`
 - [Simple Radio](https://modrinth.com/project/simple-radio) `1.21.1-4.5.7.9`
