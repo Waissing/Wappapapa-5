@@ -8,6 +8,10 @@
     "modrinth": {
       "id": "s9gIPDom",
       "slug": "figura"
+    },
+    "curseforge": {
+      "id": "901503",
+      "slug": "figura"
     }
   },
   "dependents": [],
