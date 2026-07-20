@@ -1,0 +1,16 @@
+{
+  "name": "Figura v5 support",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dDOISgs4",
+      "slug": "figura-v5-support"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

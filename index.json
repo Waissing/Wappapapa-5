@@ -317,6 +317,14 @@
       "sha1": "8b37d60e6e190720946c4efa6e2de0f381afab52"
     },
     {
+      "path": "content/mods/figura-v5-support.json",
+      "sha1": "3179316367d489c240dbbc367be87aec3a281b0a"
+    },
+    {
+      "path": "content/mods/figura.json",
+      "sha1": "9e86793474f5fe3d58cedacb51d219d92c96300a"
+    },
+    {
       "path": "content/mods/forgified-fabric-api.json",
       "sha1": "bf168a6054454059502984b2d2b2dc0a193798ee"
     },

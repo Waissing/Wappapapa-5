@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 206 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 208 mods
 
 ## Contents
 
@@ -82,6 +82,8 @@
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Figura](https://modrinth.com/project/figura)
+- [Figura v5 support](https://modrinth.com/project/figura-v5-support)
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
 - [Freecam](https://modrinth.com/project/freecam) `1.3.0+mc1.21.1`
 - [Furniture with create and sable compat](https://modrinth.com/project/lets-do-furniture-another-furniture-handcrafted-create-sable) `4.8.42`
