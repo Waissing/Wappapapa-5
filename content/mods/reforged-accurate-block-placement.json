@@ -1,0 +1,24 @@
+{
+  "name": "[Reforged] Accurate Block Placement",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tOVrxqLR",
+      "pin": "dPlHyUJt",
+      "slug": "reforged-accurate-block-placement",
+      "versionId": "dPlHyUJt",
+      "versionNumber": "1.0.0",
+      "filename": "[Neoforge-1.21.1]Accurateblockplacement 1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tOVrxqLR/versions/dPlHyUJt/%5BNeoforge-1.21.1%5DAccurateblockplacement%201.0.0.jar",
+      "sha1": "d165a36e0af40daab17daf16214e60c3d70c58cb",
+      "sha512": "085371267f95869aedf62da8bab5deb59e7d2cfa91cdb6fab2fedaae424f22bd38b31dfbb8cc1d8509b87bd76494a6659f7714e5388c256270c57eca8f612936",
+      "fileSize": 25135
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

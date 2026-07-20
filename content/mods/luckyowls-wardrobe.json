@@ -1,0 +1,24 @@
+{
+  "name": "Lucky's Wardrobe",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zhIupQBu",
+      "pin": "nkAh4uc7",
+      "slug": "luckyowls-wardrobe",
+      "versionId": "nkAh4uc7",
+      "versionNumber": "2.0.0",
+      "filename": "luckyswardrobe-2.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zhIupQBu/versions/nkAh4uc7/luckyswardrobe-2.0.0.jar",
+      "sha1": "a0a37d721fa30e499e945af5782e1e1e83c70427",
+      "sha512": "6807f19d942b498ed25d1aff686d65fb19b03c9d87edb87fc432b50a22118a419d4b417c3ea4e902eafa165fef84306269f9d92e148e4b48e019778643b1538a",
+      "fileSize": 228947
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

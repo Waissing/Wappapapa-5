@@ -1,0 +1,23 @@
+{
+  "name": "Chimes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "350464",
+      "pin": "7573270",
+      "slug": "chimes",
+      "versionId": "7573270",
+      "versionNumber": "Chimes-v2.1.1-1.21.1-NeoForge",
+      "filename": "Chimes-v2.1.1-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7573/270/Chimes-v2.1.1-1.21.1-NeoForge.jar",
+      "sha1": "991e81741231b73b2cd3cbe9ab41e73cbe99d7be",
+      "fileSize": 12478373
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ziplines: Rezipped!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "C1MoWQlb",
+      "pin": "aVb4ojPr",
+      "slug": "ziplines-rezipped",
+      "versionId": "aVb4ojPr",
+      "versionNumber": "1.4.0-1.21.1-neoforge",
+      "filename": "zipline-neoforge-1.21.1-1.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/C1MoWQlb/versions/aVb4ojPr/zipline-neoforge-1.21.1-1.4.0.jar",
+      "sha1": "1a0ff2fa0583b9842593d6d1969a2808735014b5",
+      "sha512": "6b85da899f19d2e868aa96041740e4d611738013e0713c496b817c7a67c1af35c76ded6173ad44aa9b8e07ee385df7434f97dfc0d1d30496ddae53efd14a7d8b",
+      "fileSize": 63394
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

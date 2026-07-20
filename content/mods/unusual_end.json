@@ -1,0 +1,24 @@
+{
+  "name": "Unusual End",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WKsNOKFh",
+      "pin": "aY6qjJ3S",
+      "slug": "unusual_end",
+      "versionId": "aY6qjJ3S",
+      "versionNumber": "2.3-neo-1.21.1",
+      "filename": "unusualend-2.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WKsNOKFh/versions/aY6qjJ3S/unusualend-2.3.jar",
+      "sha1": "53f0f3b5ad0e06c28f3fe62dea10bc90dbf89c88",
+      "sha512": "1bba524d6b0c329c69d5e196ac5ff13c0c35e0e20707b03f454ecbac7bdfcac885cdf1d0af7dd4984c2afa9f3ee4b739559e76caa41350835430f96060785a11",
+      "fileSize": 19680216
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

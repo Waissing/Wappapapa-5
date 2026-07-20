@@ -1,0 +1,23 @@
+{
+  "name": "Truly Dark",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1520893",
+      "pin": "8044933",
+      "slug": "truly-dark",
+      "versionId": "8044933",
+      "versionNumber": "trulydark-neoforge-1.21.1-2.1.0.jar",
+      "filename": "trulydark-neoforge-1.21.1-2.1.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8044/933/trulydark-neoforge-1.21.1-2.1.0.jar",
+      "sha1": "7556ff457b72e0b43103274c9bfbc859c99fd3ca",
+      "fileSize": 2670316
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

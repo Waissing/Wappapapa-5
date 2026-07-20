@@ -1,0 +1,24 @@
+{
+  "name": "YUNG's Cave Biomes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cs7iGVq1",
+      "pin": "HYGqXWqQ",
+      "slug": "yungs-cave-biomes",
+      "versionId": "HYGqXWqQ",
+      "versionNumber": "1.21.1-NeoForge-3.1.1",
+      "filename": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/cs7iGVq1/versions/HYGqXWqQ/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04",
+      "sha512": "9e88b5109e06c791f27c23df16ebd2c535b5b27cf9b748ee6a439dccf3e560d32110b81ace5ea7dcca2992394b439223c20e4f2688e80e263efa103e2b154024",
+      "fileSize": 13006621
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

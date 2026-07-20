@@ -1,0 +1,18 @@
+filename = 'blocksabound-0.2.0.jar'
+name = 'Blocks Abound'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.0'
+
+[download]
+hash = 'a48c70386e641774826b032a44eb929d9c8d1ee8c31a9a5e5536b9a7a6e2676be547521ba68e4a16155a1f92692ae06ef607c4b5ee3abf8221d0570eaebc911a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iIQCWW5p/versions/QgMu3XeX/blocksabound-0.2.0.jar'
+
+[update.modrinth]
+mod-id = 'iIQCWW5p'
+version = 'QgMu3XeX'

@@ -1,0 +1,24 @@
+{
+  "name": "Shoulder Surfing Reloaded",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kepjj2sy",
+      "pin": "9M3XJ4pj",
+      "slug": "shoulder-surfing-reloaded",
+      "versionId": "9M3XJ4pj",
+      "versionNumber": "1.21.1-5.0.5+neoforge",
+      "filename": "ShoulderSurfing-NeoForge-1.21.1-5.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/9M3XJ4pj/ShoulderSurfing-NeoForge-1.21.1-5.0.5.jar",
+      "sha1": "5a859da2d69b5ca69ff6b8aae2e6d940a2565a3a",
+      "sha512": "c9cfff063b542da9ff035a35bd6ad3949a8a8bdce749bebb37d6f02a2c54bdb4337f19b99238ccbad78f1034f9cf8d951ce253061df2a9b2b80f67938fb32921",
+      "fileSize": 399989
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

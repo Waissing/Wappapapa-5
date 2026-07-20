@@ -1,0 +1,24 @@
+{
+  "name": "Immersive Paintings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6txNkua3",
+      "pin": "DeOfrXC3",
+      "slug": "immersive-paintings",
+      "versionId": "DeOfrXC3",
+      "versionNumber": "0.7.8+1.21.1",
+      "filename": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+      "sha1": "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8",
+      "sha512": "f08e759ab6bbdd8b2d00ae3e1cc7044dfe3efa86d34fbbf7553d097ad1be358818d6569902b122cff2654c3a0942eb1a7406cf17ca537386b7d382aa8454b326",
+      "fileSize": 5500916
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

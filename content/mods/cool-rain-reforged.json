@@ -1,0 +1,24 @@
+{
+  "name": "Cool Rain Reforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IgftU6Mn",
+      "pin": "8UlyMRh2",
+      "slug": "cool-rain-reforged",
+      "versionId": "8UlyMRh2",
+      "versionNumber": "1.0.1",
+      "filename": "coolrain-1.21.1-NeoForge-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IgftU6Mn/versions/8UlyMRh2/coolrain-1.21.1-NeoForge-1.0.1.jar",
+      "sha1": "a15df749534b7b2003282ffb5950dcf3767d1243",
+      "sha512": "bfd5e797ec4584db7df08671cb5510b1ca41bf97df8302dc0c4344978c4453b4000c68d7f1fe8b0a09003528f04186a767f5e573918ab14a57c01adb658b8580",
+      "fileSize": 4148178
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

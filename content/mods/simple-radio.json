@@ -1,0 +1,24 @@
+{
+  "name": "Simple Radio",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "S7b8mMXS",
+      "pin": "voNh2a0L",
+      "slug": "simple-radio",
+      "versionId": "voNh2a0L",
+      "versionNumber": "1.21.1-4.5.7.9",
+      "filename": "simpleradio-neoforge-1.21.1-4.5.7.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/S7b8mMXS/versions/voNh2a0L/simpleradio-neoforge-1.21.1-4.5.7.9.jar",
+      "sha1": "91d73ced322f4707ace24f4b51eb77598b14b1f8",
+      "sha512": "8e81d0b2354115f0750879f2e8c25cd7d6854f279998a8465de43a2ed25c6a7fadc2457324d6d52ce3bf1140803a1cd7d4d650002421a69ef9f171c35e2649dc",
+      "fileSize": 1016130
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Undertale Death Screen",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lawTOUCq",
+      "pin": "E30ohQRl",
+      "slug": "undertale-death-screen",
+      "versionId": "E30ohQRl",
+      "versionNumber": "1.3.3+1.20.6",
+      "filename": "undertale_death_screen-neoforge-1.3.3+1.20.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lawTOUCq/versions/E30ohQRl/undertale_death_screen-neoforge-1.3.3%2B1.20.6.jar",
+      "sha1": "3a201533d52ba90fe6d02a39dc648010ec1d5a4c",
+      "sha512": "6045d447acf4fd29f4f48833ef88a4bd1fc3ed8790c40e95c093b6bc9e5ada85b8ad1aef9c159813afa55fd011d36faf0431619ac1673507c6223dffb5c483d3",
+      "fileSize": 1030232
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ModernFix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nmDcB62a",
+      "pin": "ZkPOaQLQ",
+      "slug": "modernfix",
+      "versionId": "ZkPOaQLQ",
+      "versionNumber": "5.27.15+mc1.21.1",
+      "filename": "modernfix-neoforge-5.27.15+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZkPOaQLQ/modernfix-neoforge-5.27.15%2Bmc1.21.1.jar",
+      "sha1": "d73f31081c2dc3e2e55c8f6f969466cb4639b132",
+      "sha512": "3fa670a90b59c35fdbd1b06f74783e6bb60aff29ebf222c06cd5355b31fac66a6192ec10a2004030306c1f33f7715ff126fe78874e016cb22d226481ab456870",
+      "fileSize": 597318
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

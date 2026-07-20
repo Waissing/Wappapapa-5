@@ -1,0 +1,24 @@
+{
+  "name": "[ESF] Entity Sound Features",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IMuO8COj",
+      "pin": "VjAma84k",
+      "slug": "esf",
+      "versionId": "VjAma84k",
+      "versionNumber": "0.8.1-neoforge-1.21",
+      "filename": "entity_sound_features-0.8.1-1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IMuO8COj/versions/VjAma84k/entity_sound_features-0.8.1-1.21-neoforge.jar",
+      "sha1": "95f661504a15e8820b8e72e5ad572231e9082cea",
+      "sha512": "0be00903856b5ddfdc01ae8c3de175247f19bb036f4df19c87c4ba76f7be2077d971bc8de9debea1943c819505c2d56f2b7a2b380f3053dbd2ac0f25c9674406",
+      "fileSize": 98843
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

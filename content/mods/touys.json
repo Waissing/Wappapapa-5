@@ -1,0 +1,24 @@
+{
+  "name": "Sable Touys",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HHlTF7u0",
+      "pin": "q1gpE9y4",
+      "slug": "touys",
+      "versionId": "q1gpE9y4",
+      "versionNumber": "neoforge-1.1.0",
+      "filename": "touys-neoforge-1.21.1-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HHlTF7u0/versions/q1gpE9y4/touys-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "0bbd073418a3999088564a135890fb35ab7582f1",
+      "sha512": "d49f741922a19a77864ae7b9411d8295f22675a9fbba5c4b5dbef88d4f192889f84d83b4c4082d76f6fca1c6605dcbeeb052836c407cc51a9045ea00e6479328",
+      "fileSize": 224764
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

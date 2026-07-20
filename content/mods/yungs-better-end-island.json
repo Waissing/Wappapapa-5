@@ -1,0 +1,24 @@
+{
+  "name": "YUNG's Better End Island",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2BwBOmBQ",
+      "pin": "I52NZ1qK",
+      "slug": "yungs-better-end-island",
+      "versionId": "I52NZ1qK",
+      "versionNumber": "1.21.1-NeoForge-3.1.2",
+      "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/I52NZ1qK/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19",
+      "sha512": "02923a1a97eb81ec13d69bdc6b7e8b36dfb9e6f1a98adfcf103707ec3afde35831ccd4b210e9b3a9c7662541c38ea593a3d94c12171b4072ea7feafa75c95f96",
+      "fileSize": 398130
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

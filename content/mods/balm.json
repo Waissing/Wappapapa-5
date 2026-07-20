@@ -1,0 +1,27 @@
+{
+  "name": "Balm",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MBAkmtvl",
+      "pin": "FVAybmGx",
+      "slug": "balm",
+      "versionId": "FVAybmGx",
+      "versionNumber": "21.0.62+neoforge-1.21.1",
+      "filename": "balm-neoforge-1.21.1-21.0.62.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/FVAybmGx/balm-neoforge-1.21.1-21.0.62.jar",
+      "sha1": "686d6550c4629a9113d076cdb97072c56c4b1d96",
+      "sha512": "7f5d9b507a8a62c474a354691fa984b602a22dcfdb4cce6376778748d8c294ff71513a9df6a7f3955f8f3a2f99ccf2280939245a7e6fabf07b8406573c9dcc4b",
+      "fileSize": 782318
+    }
+  },
+  "dependents": [
+    "IAJe5m4X",
+    "nPZr02ET"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

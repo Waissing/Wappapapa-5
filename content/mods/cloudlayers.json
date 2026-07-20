@@ -1,0 +1,24 @@
+{
+  "name": "Diamond's Cloud Layers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "43TXiMuy",
+      "pin": "QGwaDb8I",
+      "slug": "cloudlayers",
+      "versionId": "QGwaDb8I",
+      "versionNumber": "1.21.1-1.1",
+      "filename": "cloudlayers-1.21.1-1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/43TXiMuy/versions/QGwaDb8I/cloudlayers-1.21.1-1.1.jar",
+      "sha1": "c44ba4821cd9150ff028ee257de454e9ab0b9651",
+      "sha512": "f35a5572c63cdc7f0925fd845b480f65c3597b5133880966dd41bf70e606a52692ba26b83a8e1921e8deb627b6773de3bd5e22c243f94ac7e8a259d2ed439904",
+      "fileSize": 173321
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,18 @@
+filename = 'spawn_c2me_fix-1.21.1-1.0.0.jar'
+name = 'Spawn C2ME Fix'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'spawn_c2me_fix-1.21.1-1.0.0.jar'
+
+[download]
+hash = '16d8c1ca3465da075fad370062bb6e926785a113'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8192526
+project-id = 1561173

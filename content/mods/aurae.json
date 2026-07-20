@@ -1,0 +1,24 @@
+{
+  "name": "Aurae!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hCdWhw9o",
+      "pin": "dzhhyyOv",
+      "slug": "aurae",
+      "versionId": "dzhhyyOv",
+      "versionNumber": "1.1.0-neoforge-1.21",
+      "filename": "ambiance-neoforge-1.21-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hCdWhw9o/versions/dzhhyyOv/ambiance-neoforge-1.21-1.1.0.jar",
+      "sha1": "2b8022e72d51df110ffa12b4a7d6344be0ae9665",
+      "sha512": "553c3770f90b4a465d92dfc24c55c0ad2c929e33d940dbaa81c491f8fb2504a6466da8ef18fe0020ab739cadf075b83a55d4973e7a75d2f746431318d3687004",
+      "fileSize": 1472888
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

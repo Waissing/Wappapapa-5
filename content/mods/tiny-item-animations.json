@@ -1,0 +1,24 @@
+{
+  "name": "Tiny Item Animations",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wMkevcSR",
+      "pin": "mSJPeo1D",
+      "slug": "tiny-item-animations",
+      "versionId": "mSJPeo1D",
+      "versionNumber": "1.2.1",
+      "filename": "tia-neoforge-1.21-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wMkevcSR/versions/mSJPeo1D/tia-neoforge-1.21-1.2.1.jar",
+      "sha1": "60b6164e5329b7c13775fc9c921bf375f5ba5934",
+      "sha512": "61fc6c865ab13bb81d3d6f99f89b6ecb777278d9b37054a3b18559f3be86412546f2a7c4a502742b3cf3d9ef6fccdd1995546b5ebaab781cf2d3f768a7a8719f",
+      "fileSize": 18957
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

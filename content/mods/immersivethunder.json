@@ -1,0 +1,23 @@
+{
+  "name": "ImmersiveThunder",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1220929",
+      "pin": "6711308",
+      "slug": "immersivethunder",
+      "versionId": "6711308",
+      "versionNumber": "1.3.0 for NeoForge 1.21.1",
+      "filename": "immersivethunder-neoforge-1.21.1-1.3.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6711/308/immersivethunder-neoforge-1.21.1-1.3.0.jar",
+      "sha1": "32a42967a5cb077a5689c7ed1e7f28c4e3bb9ccc",
+      "fileSize": 3306839
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

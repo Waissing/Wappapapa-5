@@ -1,0 +1,24 @@
+{
+  "name": "Subtle Name Tags",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SgBeL2MQ",
+      "pin": "KZPhptTU",
+      "slug": "subtle-name-tags",
+      "versionId": "KZPhptTU",
+      "versionNumber": "0.3",
+      "filename": "subtle_name_tags-0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SgBeL2MQ/versions/KZPhptTU/subtle_name_tags-0.3.jar",
+      "sha1": "476c6dc2e31351c7da7052774f6795baa353cbd1",
+      "sha512": "dd82e44de9e7fa04ce8c137ea8e257828832e9be61c91f9847f467d752557b5a5bfa0e05761b5b8390447e13ba97f8a063c88d65bc95deea0300ae28f70448d3",
+      "fileSize": 31075
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

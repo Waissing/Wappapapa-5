@@ -1,0 +1,24 @@
+{
+  "name": "Axiom",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "N6n5dqoA",
+      "pin": "BzK22yyR",
+      "slug": "axiom",
+      "versionId": "BzK22yyR",
+      "versionNumber": "5.4.2",
+      "filename": "Axiom-5.4.2-for-MC1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/N6n5dqoA/versions/BzK22yyR/Axiom-5.4.2-for-MC1.21.1.jar",
+      "sha1": "1f98d5b1fdd4a20c6b181d9374ee93b3dc8515ca",
+      "sha512": "b73711c2809d2461dc2dfd92069a7ad3b986d7d70a11b927d2fc8c133158a4af29ea156208c42a6e61f2c26afbc5623806314622da8f4b3f21ae90c9949138e7",
+      "fileSize": 47067416
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

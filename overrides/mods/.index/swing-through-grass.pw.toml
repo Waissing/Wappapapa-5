@@ -1,0 +1,18 @@
+filename = 'swingthroughgrass-neoforge-1.0.0-1.21.1.jar'
+name = 'Swing Through Grass'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'b4cbb3c69c6c7fc52a89ef97595553092ff8806a48301dacf4186444103c1a27e7f762de1d75fcd2a54e61fdaeef7c295212a3f477957f1abf0f3e21e5822c15'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2UJdja33/versions/pVB6oiZ7/swingthroughgrass-neoforge-1.0.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '2UJdja33'
+version = 'pVB6oiZ7'

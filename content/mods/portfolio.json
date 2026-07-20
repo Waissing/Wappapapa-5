@@ -1,0 +1,24 @@
+{
+  "name": "Portfolio",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2k6aLirX",
+      "pin": "I4pPTqou",
+      "slug": "portfolio",
+      "versionId": "I4pPTqou",
+      "versionNumber": "1.5.5-neoforge",
+      "filename": "portfolio-1.21.1-1.5.5-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2k6aLirX/versions/I4pPTqou/portfolio-1.21.1-1.5.5-neoforge.jar",
+      "sha1": "15d78685a340b9978bfe7ba1339770e318129f80",
+      "sha512": "77aac61186cf0b85c32610158b0e3a3953aca78199eb6c54b072ab166a9c13ed2b91013061b87bf93c2781d3626166c47d67babc4ad50689452704a4aefe7175",
+      "fileSize": 900298
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

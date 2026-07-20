@@ -1,0 +1,24 @@
+{
+  "name": "MossyLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ffLDUGbm",
+      "pin": "hCxrHerd",
+      "slug": "mossylib",
+      "versionId": "hCxrHerd",
+      "versionNumber": "1.5.0+1.21.1+neoforge",
+      "filename": "MossyLib-1.5.0+1.21.1+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ffLDUGbm/versions/hCxrHerd/MossyLib-1.5.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "c3ed14d35a7d95fc3b215ad5a2a604de4ff7b45c",
+      "sha512": "13ab18d747980562c6909f51a27943cf25b773f0a4f82faab543f320595e4866de0a3c6df1afec8f91bc924cfec60a79225530b1ed5f01a4bb3605505fba1a2c",
+      "fileSize": 179463
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

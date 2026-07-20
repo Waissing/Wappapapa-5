@@ -1,0 +1,24 @@
+{
+  "name": "Sawmill",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WRaRZdTd",
+      "pin": "zLlsG94W",
+      "slug": "universal-sawmill",
+      "versionId": "zLlsG94W",
+      "versionNumber": "1.21-1.7.7",
+      "filename": "sawmill-neoforge-1.21-1.7.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WRaRZdTd/versions/zLlsG94W/sawmill-neoforge-1.21-1.7.7.jar",
+      "sha1": "3e6c78fb964fd6d0f3ddb67f4ca479c659fa346c",
+      "sha512": "fea3a0fc3bb850733cd0a08db48af4c5114bfa2839c90970fa56c6e1c67f1aa91cba6f64f7dea2be36f285ea10bb6c5bbf25f5e9db2081f3b5862174de2e0c20",
+      "fileSize": 450030
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Traveler Tool Belt",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "oQxD3huq",
+      "pin": "uJ50KcvF",
+      "slug": "traveler-tool-belt",
+      "versionId": "uJ50KcvF",
+      "versionNumber": "1.21.1-1.0.2",
+      "filename": "travelertoolbelt-neoforge-1.21.1-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/oQxD3huq/versions/uJ50KcvF/travelertoolbelt-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "4d3d7e05e5f75a72859614aa473955b8a0d5d294",
+      "sha512": "5a85882ae5cca7ff696d005808eb342c4d8d2adf16ee471ae4a53e658cede7b313b794f383df72d5f030fda62950814d9ed1aa2e79441b92e32a9e01deadc9c6",
+      "fileSize": 302428
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

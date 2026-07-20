@@ -1,0 +1,24 @@
+{
+  "name": "Soft Imprints",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UhxJgB1o",
+      "pin": "cOfawGEr",
+      "slug": "snow-imprints",
+      "versionId": "cOfawGEr",
+      "versionNumber": "2.8.0",
+      "filename": "softimprints-neoforge-1.21.1-2.8.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UhxJgB1o/versions/cOfawGEr/softimprints-neoforge-1.21.1-2.8.0.jar",
+      "sha1": "6f53ea381c6dd55a30e70bf147cb665f4e73a24b",
+      "sha512": "01a4183a2b7b3b8e0c3b3862d537cffca7bb7f6554f1a519bb5f8094a14eb452bdab6f417f83d82daad9a590e50c6b5ffdb1bf7ebd3b4a5dc5914c55f8e26755",
+      "fileSize": 609547
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

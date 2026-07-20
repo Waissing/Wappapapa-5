@@ -1,0 +1,24 @@
+{
+  "name": "More Culling",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "51shyZVL",
+      "pin": "tFPgktUw",
+      "slug": "moreculling",
+      "versionId": "tFPgktUw",
+      "versionNumber": "1.0.8",
+      "filename": "moreculling-neoforge-1.21.1-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/51shyZVL/versions/tFPgktUw/moreculling-neoforge-1.21.1-1.0.8.jar",
+      "sha1": "fdbfaa5d6d93a11d44020301199dac68de231649",
+      "sha512": "efc7e0bfeafe4a659540417796675b1ba8fd2cd4d4f3030a85c7cb675a065da6bd0bea9b79ce4e5bf3d13728f1a85c7c9e523567bfd569a415d92ac227d0b023",
+      "fileSize": 332875
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

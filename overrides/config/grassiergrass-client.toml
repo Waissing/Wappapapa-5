@@ -1,0 +1,85 @@
+[rendering]
+	#Number of grass blades rendered on each grass block. Higher is denser but heavier.
+	# Default: 32
+	# Range: 1 ~ 64
+	bladesPerBlock = 32
+	#Height of the grass blades.
+	# Default: 0.35
+	# Range: 0.1 ~ 1.3
+	bladeHeight = 0.3499999940395355
+	#Scales the built-in blade height variation. 1.0 is the default look; 0 makes blades uniform.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	heightVariation = 1.0
+	#Width multiplier for grass blades.
+	# Default: 1.2
+	# Range: 0.25 ~ 2.0
+	bladeWidth = 1.2000000476837158
+	#How far (in blocks) grass renders around you. Cached per chunk, so distance is cheap.
+	# Default: 100
+	# Range: 16 ~ 160
+	renderRadius = 120
+	#Blade look: TAPERED (smooth gradient) or SEGMENTED (vanilla-like banded blades).
+	#Allowed Values: TAPERED, SEGMENTED
+	grassStyle = "SEGMENTED"
+	#Brightness multiplier for the grass colour. Tune to match how your shaderpack lights it.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	grassBrightness = 1.0
+	#Brightness multiplier at the base of each grass blade.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	bladeGradientBottom = 1.0
+	#Brightness multiplier at the tip of each grass blade.
+	# Default: 1.1
+	# Range: 0.25 ~ 2.0
+	bladeGradientTop = 1.100000023841858
+	#Blade gradient response curve. 1.0 is linear.
+	# Default: 1.5
+	# Range: 0.1 ~ 4.0
+	bladeGradientCurve = 1.5
+	#Wind speed API value. 100 preserves the original wind behavior.
+	# Default: 100
+	# Range: 0 ~ 500
+	windSpeed = 20
+	#Wind direction in degrees on the XZ plane. 0 = +X, 90 = +Z.
+	# Default: 0.0
+	# Range: 0.0 ~ 360.0
+	windDirectionDegrees = 0.0
+	#If true, wind smoothly wanders in direction and varies speed between 35 and 110.
+	dynamicWind = true
+	#Master toggle for Grassier Grass. If false, the mod is fully disabled and everything renders vanilla.
+	modEnabled = true
+	#If true, grass and plants beyond the grass render radius fall back to static vanilla rendering. If false they are hidden entirely beyond the radius (original behaviour, slightly cheaper).
+	distantVanillaPlants = true
+
+[plants]
+	#Block ids Grassier Grass should leave to vanilla rendering instead of hiding and re-rendering.
+	plantBlacklist = ["minecraft:sea_pickle", "minecraft:seagrass", "nomansland:apple", "nomansland:cave_weeds", "nomansland:pear"]
+	#Block ids that keep their vanilla model but still sway in the wind, instead of being replaced with procedural grass blades.
+	vanillaModelPlants = ["minecraft:fern", "minecraft:large_fern"]
+	#Block ids (e.g. modded plants) rendered with the procedural grass blades instead of their own model. Plant height is detected automatically from stacked blocks of the same type; append =N to force a height in blocks (e.g. "environmental:giant_tall_grass=3").
+	bladePlants = ["environmental:giant_tall_grass=3", "nomansland:grass_sprouts=0.6"]
+	#If true, leaves subtly sway in the wind in sync with the grass (within the grass render radius).
+	wavingLeaves = true
+	#How strongly leaves sway. 0 disables movement, 1 sways like the top of a plant.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	leafSwayAmount = 0.3499999940395355
+	#If true, bamboo stalks sway in the wind, anchored at the base and freer toward the top.
+	bambooSway = true
+	#How strongly the top of a bamboo stalk sways. 0 disables movement, 1 sways like the top of a plant.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	bambooSwayAmount = 0.5
+	#How far (in blocks) leaves sway around you. Beyond this distance leaves render as static vanilla blocks.
+	# Default: 100
+	# Range: 16 ~ 160
+	leafRenderRadius = 100
+	#How far (in blocks) bamboo sways around you. Beyond this distance bamboo renders as static vanilla blocks.
+	# Default: 100
+	# Range: 16 ~ 160
+	bambooRenderRadius = 32
+	#How sway behaves near each animation radius. EXPONENTIAL smoothly fades sway to zero approaching the radius (seamless hand-off to static rendering); LEGACY keeps full sway right up to the radius (original hard cutoff).
+	#Allowed Values: EXPONENTIAL, LEGACY
+	distanceFalloff = "EXPONENTIAL"

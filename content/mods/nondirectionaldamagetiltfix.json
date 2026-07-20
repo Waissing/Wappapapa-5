@@ -1,0 +1,24 @@
+{
+  "name": "Non-Directional Damage Tilt Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "v2jWULk9",
+      "pin": "2DW4EXBW",
+      "slug": "nondirectionaldamagetiltfix",
+      "versionId": "2DW4EXBW",
+      "versionNumber": "2.0.1+b1.21.1",
+      "filename": "nondirectionaldamagetiltfix2.0.1+b1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/v2jWULk9/versions/2DW4EXBW/nondirectionaldamagetiltfix2.0.1%2Bb1.21.1.jar",
+      "sha1": "d2e569ee01dc672bb96d8cc581cf6052efb67f6b",
+      "sha512": "53fb6d282bc3b824f53dc477576ea42ac0730a7ee3845f4bf7b2788b1bc7ba16edf56dcbf10ef2f96ddc086770cfef894b1ede0a5aa2b8f3bdda480736d0d617",
+      "fileSize": 19803
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Clothing of the Lowlands",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1249421",
+      "pin": "7880643",
+      "slug": "clothing-of-the-lowlands",
+      "versionId": "7880643",
+      "versionNumber": "Clothing_Of_The_Lowlands_1.0.8",
+      "filename": "Clothing_Of_The_Lowlands-1.0.8-neoforge-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7880/643/Clothing_Of_The_Lowlands-1.0.8-neoforge-1.21.1.jar",
+      "sha1": "3ce6c3236a4d3248f15f2873df9c568e3be46a59",
+      "fileSize": 789715
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

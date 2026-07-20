@@ -1,0 +1,37 @@
+filename = 'sage_brush-1.21.1-2.2.1.jar'
+name = 'Sage Brush'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.1'
+
+[download]
+hash = 'b0abeb787d1f83fc7c6cde4f6c14c9b35560a5af22eb8edc6a9f0cbf671d3f9bc7a1458cc0e08bc6c54bb45c6d38bb3e2e579bb0753e31d1c93cb7ff7107cfd6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LUKC9brq/versions/LSJ5NBGD/sage_brush-1.21.1-2.2.1.jar'
+
+[update.modrinth]
+mod-id = 'LUKC9brq'
+version = 'LSJ5NBGD'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kjZCvAn6'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'cU1kDASI'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VsM5EDoI'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'OqtiAZcV'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'F8BQNPWX'
+type = 'OPTIONAL'

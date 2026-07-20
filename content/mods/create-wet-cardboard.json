@@ -1,0 +1,24 @@
+{
+  "name": "Create Wet Cardboard",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5Dc3qbzl",
+      "pin": "z5ttCvzE",
+      "slug": "create-wet-cardboard",
+      "versionId": "z5ttCvzE",
+      "versionNumber": "1.0.0",
+      "filename": "create_wet_cardboard-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5Dc3qbzl/versions/z5ttCvzE/create_wet_cardboard-1.0.0.jar",
+      "sha1": "38538bc5c3aa1932d58af0171aab1c1dc65bd26c",
+      "sha512": "9c1bff345c9891649252ccb0af2fa86b9b4a1dd875ec642eac2d2939b1169ac45069dcc5b4300ad067b4e64ebf5d8eea50ab0f439de5a9a6c40ab4930e14e62f",
+      "fileSize": 22331
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

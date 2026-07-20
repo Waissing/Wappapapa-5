@@ -1,0 +1,24 @@
+{
+  "name": "Windy",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EwYg6C78",
+      "pin": "xcBfBf8H",
+      "slug": "windy",
+      "versionId": "xcBfBf8H",
+      "versionNumber": "1.1.1+1.21-neoforge",
+      "filename": "windy-1.1.1+1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EwYg6C78/versions/xcBfBf8H/windy-1.1.1%2B1.21-neoforge.jar",
+      "sha1": "8af1c26a4873d9deb3ca670676dbd01ebd3391fb",
+      "sha512": "01e3aacc6dd41e837943454a3a8d60717d8958832e3053e329de6dd44c65c958111f579918683da4887b0cca9677398b42edf9d2660f0ad566752ddf80977f29",
+      "fileSize": 33416
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

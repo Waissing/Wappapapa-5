@@ -1,0 +1,24 @@
+{
+  "name": "Supplementaries Squared",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dCCkNFwE",
+      "pin": "1uYFhgHN",
+      "slug": "supplementaries-squared",
+      "versionId": "1uYFhgHN",
+      "versionNumber": "1.21-1.2.18",
+      "filename": "suppsquared-neoforge-1.21-1.2.18.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dCCkNFwE/versions/1uYFhgHN/suppsquared-neoforge-1.21-1.2.18.jar",
+      "sha1": "f93ecd5d8dbbb86f9e80a887dafa75ded4fade9c",
+      "sha512": "e396e5b460fcbed33fb9ee53c6e58e47df7a98a93354c91d5a28d407d82eb835baeabbc92fe7cf41fcfe070fdd7f5b78b1e2ba302eb1cec149c7cc09f5bdbad9",
+      "fileSize": 752062
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,12 @@
+{
+    texturesAndModels: {
+        armourLeggingsTextures: true,
+        torchModel: true,
+        lanternModel: true,
+        itemDefinitions: true,
+        lanternDisplayPriority: "playerPriority"
+    },
+    armourPartOffset: true,
+    firstPersonAnims: true,
+    shieldModel: true
+}

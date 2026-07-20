@@ -1,0 +1,24 @@
+{
+  "name": "Places",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Ic0nDh2h",
+      "pin": "cOhnFvvh",
+      "slug": "places",
+      "versionId": "cOhnFvvh",
+      "versionNumber": "0.4.9",
+      "filename": "places-0.4.9-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ic0nDh2h/versions/cOhnFvvh/places-0.4.9-neoforge-1.21.1.jar",
+      "sha1": "5ea736a4439a7eca10ad4219f9cbc26623958c53",
+      "sha512": "e8b88731b215c56906ba64617f9cc23f2e9fd8121bd4180185e281f1c5eef6e216749f2e06d34a0d230117451c77f3a736213d344e15383aa0f23fa9798265a4",
+      "fileSize": 118698908
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

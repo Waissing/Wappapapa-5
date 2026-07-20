@@ -1,0 +1,18 @@
+filename = 'Vanishmod-1.21.1-1.1.21.jar'
+name = 'Vanishmod'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.21'
+
+[download]
+hash = '0b60484fe1777a5f75352f68d973351c77a50a32a19b6642526285209ba7b0bfbaafe99df89fb77162b13688503a1b6432b4282be2811de770707f22df834ca6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MihN2cw5/versions/G52aWgtY/Vanishmod-1.21.1-1.1.21.jar'
+
+[update.modrinth]
+mod-id = 'MihN2cw5'
+version = 'G52aWgtY'

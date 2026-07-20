@@ -1,0 +1,24 @@
+{
+  "name": "Penchant",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BTORUTmf",
+      "pin": "wcsDwzvg",
+      "slug": "penchant",
+      "versionId": "wcsDwzvg",
+      "versionNumber": "0.3.7+connector+mc1.21.1",
+      "filename": "penchant-0.3.7+connector+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BTORUTmf/versions/wcsDwzvg/penchant-0.3.7%2Bconnector%2Bmc1.21.1.jar",
+      "sha1": "ba62ee19bd8412f38436a809bb20f064cb6cab24",
+      "sha512": "53fac968b5bd7cf16151bbb135adc3ea650252289bcd805329d0dbc33cbebdda89513cd096e0581f74a113e1dd83ad8fd14d9e5f97639fa0708d2ffbc4966686",
+      "fileSize": 577598
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

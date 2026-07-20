@@ -1,0 +1,18 @@
+filename = 'cloudlayers-1.21.1-1.1.jar'
+name = "Diamond's Cloud Layers"
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.1'
+
+[download]
+hash = 'f35a5572c63cdc7f0925fd845b480f65c3597b5133880966dd41bf70e606a52692ba26b83a8e1921e8deb627b6773de3bd5e22c243f94ac7e8a259d2ed439904'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/43TXiMuy/versions/QGwaDb8I/cloudlayers-1.21.1-1.1.jar'
+
+[update.modrinth]
+mod-id = '43TXiMuy'
+version = 'QGwaDb8I'

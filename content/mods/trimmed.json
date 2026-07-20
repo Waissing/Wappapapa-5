@@ -1,0 +1,26 @@
+{
+  "name": "Trimmed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "q8k4zHw5",
+      "pin": "wqxXFq0d",
+      "slug": "trimmed",
+      "versionId": "wqxXFq0d",
+      "versionNumber": "1.21-3.0.0+neoforge",
+      "filename": "trimmed-neo-1.21-3.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/q8k4zHw5/versions/wqxXFq0d/trimmed-neo-1.21-3.0.0.jar",
+      "sha1": "c1ee534f00f4ee476e868f4db4dea99c7d41570d",
+      "sha512": "d6efb0c378b94d539cdd99ce7ce11862518e971973210ff383506996af69b40a1fb54aecd71ebf73bd0f1e453ce80227b810781d1ad7f9a2dd076b7bb6d00811",
+      "fileSize": 281114
+    }
+  },
+  "dependents": [
+    "btCrWvHr"
+  ],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

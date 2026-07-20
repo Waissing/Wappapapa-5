@@ -1,0 +1,24 @@
+{
+  "name": "Spawn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rex9wwpz",
+      "pin": "kmNDEibJ",
+      "slug": "spawn-mod",
+      "versionId": "kmNDEibJ",
+      "versionNumber": "4.0.4",
+      "filename": "spawn-4.0.4-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rex9wwpz/versions/kmNDEibJ/spawn-4.0.4-1.21.1.jar",
+      "sha1": "1d42b48451a87a9b47d5002a890aebff49e6d87e",
+      "sha512": "45e113e60a8b43548105d47393d51553511621ebf80735b9d612396b01c1b2e5e2be8037de2354940946c25348ff72dbf39b4cd7bb254e63c4c676e5b5613c55",
+      "fileSize": 83632344
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,25 @@
+filename = 'zipline-neoforge-1.21.1-1.4.0.jar'
+name = 'Ziplines: Rezipped!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.0-1.21.1-neoforge'
+
+[download]
+hash = '6b85da899f19d2e868aa96041740e4d611738013e0713c496b817c7a67c1af35c76ded6173ad44aa9b8e07ee385df7434f97dfc0d1d30496ddae53efd14a7d8b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C1MoWQlb/versions/aVb4ojPr/zipline-neoforge-1.21.1-1.4.0.jar'
+
+[update.modrinth]
+mod-id = 'C1MoWQlb'
+version = 'aVb4ojPr'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5pzBXDS3'
+type = 'OPTIONAL'

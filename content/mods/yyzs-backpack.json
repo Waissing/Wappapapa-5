@@ -1,0 +1,24 @@
+{
+  "name": "yyz's backpack",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zO7tsTJN",
+      "pin": "jiao2sMM",
+      "slug": "yyzs-backpack",
+      "versionId": "jiao2sMM",
+      "versionNumber": "21.1.13",
+      "filename": "yyzsbackpack-neoforge-21.1.13.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zO7tsTJN/versions/jiao2sMM/yyzsbackpack-neoforge-21.1.13.jar",
+      "sha1": "8dec755f5aea4c4365a55c0dccb0f37d09b49e00",
+      "sha512": "2baff41e443c2d1ee40f82423befb19786a65d06257d2a402a21a444d97260162d883f01d3c9d545095cf0fef022a1e02502712de70553004ab7acb3971c8581",
+      "fileSize": 209479
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

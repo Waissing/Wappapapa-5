@@ -1,0 +1,24 @@
+{
+  "name": "Furniture with create and sable compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "W2K5jx3j",
+      "pin": "l3DpkqVr",
+      "slug": "lets-do-furniture-another-furniture-handcrafted-create-sable",
+      "versionId": "l3DpkqVr",
+      "versionNumber": "4.8.42",
+      "filename": "createfurnitureseats-4.8.42.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W2K5jx3j/versions/l3DpkqVr/createfurnitureseats-4.8.42.jar",
+      "sha1": "ee03a9965ed02a911eb0ecda09bb02e7ebdafaef",
+      "sha512": "dbde8d7c9d9cd65d014aac78f6755afc519409c2e5113f18b07b37c9cd2b69bafa3621152cd66b95b14c93e0f42c30a1449ad8b2a791c66dd12412ff635c55d0",
+      "fileSize": 62737
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

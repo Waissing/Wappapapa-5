@@ -1,0 +1,18 @@
+filename = 'cats-dont-care-1.0.1+1.21.1+neoforge.jar'
+name = "Cats Don't Care (CDC)"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1+1.21.1+neoforge'
+
+[download]
+hash = '595a5821e51556612452f2e3ef9dc19f5a50ce3d43c6295ef24b039d78c0b33c5fc41295632a85af93edcedd59e327154c12947a4d04ecf8454ca15f03c913b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OihWKxvL/versions/AWH0Ycuw/cats-dont-care-1.0.1%2B1.21.1%2Bneoforge.jar'
+
+[update.modrinth]
+mod-id = 'OihWKxvL'
+version = 'AWH0Ycuw'

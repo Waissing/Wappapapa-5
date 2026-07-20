@@ -1,0 +1,34 @@
+filename = 'lexiconfig-neoforge-1.4.21-novel.jar'
+name = 'Lexiconfig'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.21-novel'
+
+[download]
+hash = '43cf15bbea771c8553681d4c69d48b50dd87401fd8e30bce2fb05bf052aa536504a7f13e7a5c0c5340790423bbbcb112667e0cd0a99f0a38bc66ff937b427aa7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/D157Rgyf/versions/ij5zMAln/lexiconfig-neoforge-1.4.21-novel.jar'
+
+[update.modrinth]
+mod-id = 'D157Rgyf'
+version = 'ij5zMAln'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'HlpEBg3R'
+type = 'OPTIONAL'

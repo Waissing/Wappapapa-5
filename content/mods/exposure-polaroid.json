@@ -1,0 +1,24 @@
+{
+  "name": "Exposure: Polaroid",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WEWiqYkW",
+      "pin": "88CBvo76",
+      "slug": "exposure-polaroid",
+      "versionId": "88CBvo76",
+      "versionNumber": "1.1.5",
+      "filename": "exposure_polaroid-neoforge-1.21.1-1.1.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WEWiqYkW/versions/88CBvo76/exposure_polaroid-neoforge-1.21.1-1.1.5.jar",
+      "sha1": "21bb0d20347c0fae7700d9a0ea7d956df2da5c72",
+      "sha512": "90ec430d616e8fe577dfafd7e2d3e9034a0aa58e8efac00910668744a91b6b205cf4836d5552869309ad840df43c1e7211379504cd3a9dff51ed3efdeb76a3ab",
+      "fileSize": 361361
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

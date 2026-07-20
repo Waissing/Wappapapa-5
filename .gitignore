@@ -1,0 +1,57 @@
+.DS_Store
+
+# packweave
+.pack-local.json
+
+# minecraft
+saves/
+backups/
+logs/
+crash-reports/
+screenshots/
+*.log
+usercache.json
+usernamecache.json
+realms_persistence.json
+command_history.txt
+servers.dat
+*.dat_old
+
+# loader
+.fabric/
+.quilt/
+natives/
+.mixin.out/
+.cache/
+versions/
+libraries/
+assets/
+debug/
+downloads/
+local/
+cache/
+
+# mods
+*.bak
+/emi.json
+ponders_watched.json
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+fieldguide_cache/
+fancymenu_data/
+Distant_Horizons_server_data/
+emojiful/
+figura/
+server-resource-packs/
+schematics/
+.sable/
+imgui.ini
+moddata/
+mods/.connector/
+mods/.index/
+coremods/
+config/spark/tmp-client/
+cherishedworlds-favorites.dat
+.probe/
+.vscode/probe.code-snippets
+config/sodium-fingerprint.json

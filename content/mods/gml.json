@@ -1,0 +1,24 @@
+{
+  "name": "GroovyModLoader (GML)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zg2tT2Vu",
+      "pin": "IDRMIIb4",
+      "slug": "gml",
+      "versionId": "IDRMIIb4",
+      "versionNumber": "6.0.2",
+      "filename": "gml-6.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zg2tT2Vu/versions/IDRMIIb4/gml-6.0.2.jar",
+      "sha1": "29a8153c54b9b03a3b4b42be7d77fe4ac2459720",
+      "sha512": "dba6da1b6b7248ca14be3bd40d886f6a92623aadda11eac43a1b7d4248beb5343da108e851c141eefa175c1705e5d83f2ced5067512f9e8c8ba2f00b9b966332",
+      "fileSize": 10981280
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

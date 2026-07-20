@@ -1,0 +1,24 @@
+{
+  "name": "Ragdoll Revive",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6GKoZCVC",
+      "pin": "AiKZRAuv",
+      "slug": "ragdoll-revive",
+      "versionId": "AiKZRAuv",
+      "versionNumber": "1.4",
+      "filename": "ragdoll_revive-1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6GKoZCVC/versions/AiKZRAuv/ragdoll_revive-1.4.jar",
+      "sha1": "e528a6d22f926fba27043991ac1517011737aa42",
+      "sha512": "fbac3669b9458b44ba4129028a875431a75f0808023c493dd5445a519bd6a37eb44009d55ef805a8daa7bb9dca0ed791af4a1d14a07f7ca5a26bd208132fd9e3",
+      "fileSize": 146331
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

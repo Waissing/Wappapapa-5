@@ -1,0 +1,26 @@
+{
+  "name": "TCT Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MlsBPB9a",
+      "pin": "ZFDPM6AD",
+      "slug": "tct-core",
+      "versionId": "ZFDPM6AD",
+      "versionNumber": "2.1",
+      "filename": "TCTcore-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MlsBPB9a/versions/ZFDPM6AD/TCTcore-1.21.1.jar",
+      "sha1": "930748c1becb5de1362ab6d0916845717073751f",
+      "sha512": "3fb9f82e7a64f1eb6a410195086fca257976fe8a5cc635cff1ee1f5808a5c655b01315ad3057f0dfbf52cb8bef78a9642e3721006994791ef6bb541a05cc40b9",
+      "fileSize": 177974
+    }
+  },
+  "dependents": [
+    "bTSEAgRY"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

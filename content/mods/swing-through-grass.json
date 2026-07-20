@@ -1,0 +1,24 @@
+{
+  "name": "Swing Through Grass",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2UJdja33",
+      "pin": "pVB6oiZ7",
+      "slug": "swing-through-grass",
+      "versionId": "pVB6oiZ7",
+      "versionNumber": "1.0.0",
+      "filename": "swingthroughgrass-neoforge-1.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2UJdja33/versions/pVB6oiZ7/swingthroughgrass-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "99ce70dd8028873d0da9b77905a7e4313e4bc722",
+      "sha512": "b4cbb3c69c6c7fc52a89ef97595553092ff8806a48301dacf4186444103c1a27e7f762de1d75fcd2a54e61fdaeef7c295212a3f477957f1abf0f3e21e5822c15",
+      "fileSize": 6098
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

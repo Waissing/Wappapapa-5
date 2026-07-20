@@ -1,0 +1,23 @@
+{
+  "name": "Spawn C2ME Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1561173",
+      "pin": "8192526",
+      "slug": "spawn-c2me-fix",
+      "versionId": "8192526",
+      "versionNumber": "spawn_c2me_fix-1.21.1-1.0.0.jar",
+      "filename": "spawn_c2me_fix-1.21.1-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8192/526/spawn_c2me_fix-1.21.1-1.0.0.jar",
+      "sha1": "16d8c1ca3465da075fad370062bb6e926785a113",
+      "fileSize": 40913
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
