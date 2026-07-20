@@ -19,6 +19,6 @@
     }
   },
   "dependents": [],
-  "clientSide": "required",
+  "clientSide": "unknown",
   "serverSide": "unsupported"
 }

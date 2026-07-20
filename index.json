@@ -510,7 +510,7 @@
     },
     {
       "path": "content/mods/particle-effects-reforged.json",
-      "sha1": "cf92f395e152f885158f00c08894a4e0adbb44bb"
+      "sha1": "01d3605afd2ea86274485b645b9e5763e8ccf9ed"
     },
     {
       "path": "content/mods/particle-interactions.json",
@@ -3047,6 +3047,10 @@
     {
       "path": "overrides/mods/.index/ziplines-rezipped.pw.toml",
       "sha1": "df6a1a1d47c09575b69ce1e42d2ed2475776bca6"
+    },
+    {
+      "path": "overrides/mods/grassiergrass-neoforge-1.4.2-patched.15+mc1.21.1.jar",
+      "sha1": "e77ddc5256deb66c68125e1f7206c7b239355e3b"
     },
     {
       "path": "overrides/mods/spawn_dh_fix-1.0.0.jar",
