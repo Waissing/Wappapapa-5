@@ -1,5 +1,5 @@
 # Normalize line endings
-* text=auto eol=lf
+* -text
 
 # Binaries
 *.jar binary
@@ -13,3 +13,4 @@
 *.ogg binary
 *.nbt binary
 *.dat binary
+
