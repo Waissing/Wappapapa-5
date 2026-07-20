@@ -62,7 +62,7 @@
     },
     {
       "path": "content/mods/better-clouds.json",
-      "sha1": "cab6ac6a279296ae4111758b2140f4a5fe18452a"
+      "sha1": "908bc9346f2d158005c7cbe5f52b1e4c65c16431"
     },
     {
       "path": "content/mods/better-ping-display.json",
@@ -274,7 +274,7 @@
     },
     {
       "path": "content/mods/etched.json",
-      "sha1": "8133af9d8101d7eb4c59cfa5f96a35e0449ebd5f"
+      "sha1": "eb8e82593cd31c675b6218d2c92d54f379805b86"
     },
     {
       "path": "content/mods/every-compat.json",
@@ -318,7 +318,7 @@
     },
     {
       "path": "content/mods/figura.json",
-      "sha1": "5d13e755c55423c44a80cb57d796db9b6336b8e4"
+      "sha1": "c83ca194107038dc9add36f5fd6f0675d2afd7aa"
     },
     {
       "path": "content/mods/forgified-fabric-api.json",

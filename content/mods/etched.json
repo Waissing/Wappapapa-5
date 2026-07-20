@@ -1,16 +1,25 @@
 {
-  "name": "Etched",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "zi3Fnfmc",
-      "slug": "etched"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "Etched",
+    "side":  "auto",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "zi3Fnfmc",
+                                     "pin":  "h6eJfwiW",
+                                     "slug":  "etched",
+                                     "versionId":  "h6eJfwiW",
+                                     "versionNumber":  "5.1.0",
+                                     "filename":  "etched-5.1.0.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/zi3Fnfmc/versions/h6eJfwiW/etched-5.1.0.jar",
+                                     "sha1":  "0cc1f1d0bc5d9af3f9ffbb8ce166f5cc9b59ec89",
+                                     "fileSize":  628299
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }

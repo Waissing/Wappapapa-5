@@ -1,16 +1,25 @@
 {
-  "name": "Better Clouds",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "5srFLIaK",
-      "slug": "better-clouds"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "unsupported"
+    "name":  "Better Clouds",
+    "side":  "auto",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "5srFLIaK",
+                                     "pin":  "XK8POrWQ",
+                                     "slug":  "better-clouds",
+                                     "versionId":  "XK8POrWQ",
+                                     "versionNumber":  "1.13.6+1.21.1-neoforge-release",
+                                     "filename":  "better-clouds-1.13.6+1.21.1-neoforge.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/5srFLIaK/versions/XK8POrWQ/better-clouds-1.13.6%2B1.21.1-neoforge.jar",
+                                     "sha1":  "23c59c710b511587f4d1c4e04b1fd529a0be5c1f",
+                                     "fileSize":  815478
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "unsupported"
 }
