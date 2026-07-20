@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 206 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 207 mods
 
 ## Contents
 
@@ -90,6 +90,7 @@
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.2`
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
 - [Glow](https://modrinth.com/project/glows) `1.3.0`
+- Grassier Grass (Wappa fork) (url)
 - [GroovyModLoader (GML)](https://modrinth.com/project/gml) `6.0.2`
 - [Horseman](https://modrinth.com/project/horseman) `1.5.11`
 - [Horses Can Swim](https://modrinth.com/project/swimming-horses-forge) `1.1.0`

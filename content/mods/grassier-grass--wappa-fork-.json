@@ -1,0 +1,16 @@
+{
+  "name": "Grassier Grass (Wappa fork)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "url",
+  "sources": {
+    "url": {
+      "url": "",
+      "slug": ""
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

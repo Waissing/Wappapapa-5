@@ -1,6 +1,6 @@
 {
   "name": "Particle Effects Reforged",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -19,6 +19,6 @@
     }
   },
   "dependents": [],
-  "clientSide": "unknown",
-  "serverSide": "unknown"
+  "clientSide": "required",
+  "serverSide": "unsupported"
 }

@@ -349,6 +349,10 @@
       "sha1": "3e1b98c92acb3fcccdbf6909b95aa563c391bba0"
     },
     {
+      "path": "content/mods/grassier-grass--wappa-fork-.json",
+      "sha1": "a39cc6d3b2c2aaa4b59bcc9137249d3a0c40397f"
+    },
+    {
       "path": "content/mods/horseman.json",
       "sha1": "02d5567ed26757f21a8e2f167a928f134a78642d"
     },
@@ -506,7 +510,7 @@
     },
     {
       "path": "content/mods/particle-effects-reforged.json",
-      "sha1": "91c716684e9f371852c25daf8dd8c6b5256388c0"
+      "sha1": "cf92f395e152f885158f00c08894a4e0adbb44bb"
     },
     {
       "path": "content/mods/particle-interactions.json",
@@ -3043,10 +3047,6 @@
     {
       "path": "overrides/mods/.index/ziplines-rezipped.pw.toml",
       "sha1": "df6a1a1d47c09575b69ce1e42d2ed2475776bca6"
-    },
-    {
-      "path": "content/mods/grassiergrass-fork.json",
-      "sha1": "c2144a76f8ff5e9dc79305f7b52d4d82847a093e"
     },
     {
       "path": "overrides/mods/spawn_dh_fix-1.0.0.jar",
