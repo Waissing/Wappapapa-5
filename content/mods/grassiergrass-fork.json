@@ -1,0 +1,20 @@
+{
+  "name": "Grassier Grass (Wappa fork)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "url",
+  "sources": {
+    "url": {
+      "slug": "grassiergrass-fork",
+      "versionNumber": "1.4.2-patched.15",
+      "filename": "grassiergrass-neoforge-1.4.2-patched.15+mc1.21.1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Waissing/Wappapapa-5/master/hosted/grassiergrass-neoforge-1.4.2-patched.15+mc1.21.1.jar",
+      "sha1": "e77ddc5256deb66c68125e1f7206c7b239355e3b",
+      "fileSize": 2184839
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}
