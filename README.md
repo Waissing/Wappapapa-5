@@ -23,7 +23,7 @@
 - [Axiom](https://modrinth.com/project/axiom) `5.4.2`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.0`
 - [Balm](https://modrinth.com/project/balm) `21.0.62+neoforge-1.21.1`
-- [Better Clouds](https://modrinth.com/project/better-clouds)
+- [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.12`
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.2.0`
@@ -72,7 +72,7 @@
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
 - [Envelope](https://modrinth.com/project/envelope) `0.6.2`
 - [Environmental](https://modrinth.com/project/environmental) `5.0.1`
-- [Etched](https://modrinth.com/project/etched)
+- [Etched](https://modrinth.com/project/etched) `5.1.0`
 - [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.46`
 - [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.1.2`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`
@@ -82,7 +82,7 @@
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Figura](https://modrinth.com/project/figura)
+- [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
 - [Freecam](https://modrinth.com/project/freecam) `1.3.0+mc1.21.1`
 - [Furniture with create and sable compat](https://modrinth.com/project/lets-do-furniture-another-furniture-handcrafted-create-sable) `4.8.42`
