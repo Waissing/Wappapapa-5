@@ -10,9 +10,7 @@
       "slug": "figura"
     }
   },
-  "dependents": [
-    "dDOISgs4"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "unsupported"
 }
