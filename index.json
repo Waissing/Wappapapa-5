@@ -65,6 +65,10 @@
       "sha1": "f3cbedff78e5c223a5c69c1de44bce0668d914b4"
     },
     {
+      "path": "content/mods/better-clouds.json",
+      "sha1": "06f29faa22687bfb374cd2e98d108fd4093e1b41"
+    },
+    {
       "path": "content/mods/better-ping-display.json",
       "sha1": "e1f5d6e1b8ba98f8e2187c6e032b1a4245fdcc65"
     },
@@ -794,7 +798,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "2c64f1bd8c7612c42b9c62297181d71aa810a397"
+      "sha1": "5c1cd8bf1127f793c441f24609d7f488b7c5ff70"
     },
     {
       "path": "content/mods/yungs-api.json",
