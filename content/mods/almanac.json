@@ -1,6 +1,6 @@
 {
   "name": "Almanac",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -21,6 +21,6 @@
   "dependents": [
     "vE2FN5qn"
   ],
-  "clientSide": "unsupported",
+  "clientSide": "optional",
   "serverSide": "required"
 }

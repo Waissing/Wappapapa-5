@@ -1,6 +1,6 @@
 {
   "name": "No Man's Delight",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -19,6 +19,6 @@
     }
   },
   "dependents": [],
-  "clientSide": "unsupported",
+  "clientSide": "optional",
   "serverSide": "required"
 }

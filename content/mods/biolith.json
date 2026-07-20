@@ -1,6 +1,6 @@
 {
   "name": "Biolith",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -22,6 +22,6 @@
     "N8ZATCCG",
     "kjZCvAn6"
   ],
-  "clientSide": "unsupported",
+  "clientSide": "optional",
   "serverSide": "required"
 }
