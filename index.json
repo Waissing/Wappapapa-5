@@ -14,11 +14,11 @@
     },
     {
       "path": "content/mods/almanac.json",
-      "sha1": "2fc1bc8dabaff6a854cb8cbca5f991c8054aeed9"
+      "sha1": "04d9d4fc011fc37085450f97a60f38bdfda254b2"
     },
     {
       "path": "content/mods/alternate-current.json",
-      "sha1": "8e6a648b4de357e4db4d817874114b65d3908b5f"
+      "sha1": "0215cd04c5de8c5a097fbdbe0e5cc5eaa038a06d"
     },
     {
       "path": "content/mods/ambient-environment.json",
@@ -74,7 +74,7 @@
     },
     {
       "path": "content/mods/biolith.json",
-      "sha1": "6f6eaf3f0ec554d59afbe3d3ceb088cfc18d5d1b"
+      "sha1": "f3462767a5db799bd935deee30a73e8c2b5dfe97"
     },
     {
       "path": "content/mods/blocks-abound.json",
@@ -94,7 +94,7 @@
     },
     {
       "path": "content/mods/cats-dont-care.json",
-      "sha1": "d761773fe64990e6bfa331f8634d3cce3cb51932"
+      "sha1": "10d0abae2bcebe33b7bb7c2e647a7977cabc7e4e"
     },
     {
       "path": "content/mods/caverns-and-chasms.json",
@@ -214,7 +214,7 @@
     },
     {
       "path": "content/mods/create_oxidized.json",
-      "sha1": "c31b2c2685b9dbb92a29e4d097ca577eaa49d403"
+      "sha1": "58fae952772fec85c312dc56ef9bfd88031f7148"
     },
     {
       "path": "content/mods/creature-feature.json",
@@ -370,7 +370,7 @@
     },
     {
       "path": "content/mods/in-control.json",
-      "sha1": "22f66637271a178340c15955150e1ba2e9efa510"
+      "sha1": "2d4ab652d8aaf6d0b0ca268fb5b3d1c6093fde98"
     },
     {
       "path": "content/mods/iris.json",
@@ -414,11 +414,11 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "7065f072a795758ef1249fe1f368035fd849ef58"
+      "sha1": "4c8f184c71e72f54fa0a1cac8ba56e6ece9077c9"
     },
     {
       "path": "content/mods/lmd.json",
-      "sha1": "102058bb3fc160c3d984d830d458d2e8045a6e45"
+      "sha1": "0c8dbe5347c1c6e06f93568451dfb8b25f045b39"
     },
     {
       "path": "content/mods/luckyowls-wardrobe.json",
@@ -470,7 +470,7 @@
     },
     {
       "path": "content/mods/netherportalfix.json",
-      "sha1": "933765c5a66352c12bff013106946386b32a8aae"
+      "sha1": "71bb251472a3cea58432fccd481aa9a3edf93286"
     },
     {
       "path": "content/mods/no-chat-reports.json",
@@ -478,7 +478,7 @@
     },
     {
       "path": "content/mods/no-mans-delight.json",
-      "sha1": "c25fe178c59ec9090135720eb5a88a5c3e8a3e8d"
+      "sha1": "f2e45cbbdce5e752c76fa503a59c6c0c39c4c958"
     },
     {
       "path": "content/mods/no-mans-land.json",
@@ -486,7 +486,7 @@
     },
     {
       "path": "content/mods/noisiumforked.json",
-      "sha1": "5d6e07b46f351448004c2774cf909a7de268b1e8"
+      "sha1": "ef8cf5c1884be7e18842e3b74b4fd849b88bb147"
     },
     {
       "path": "content/mods/nondirectionaldamagetiltfix.json",
@@ -558,7 +558,7 @@
     },
     {
       "path": "content/mods/pretty-beaches.json",
-      "sha1": "08096e39496768869f34e695fd85c6e60db346b9"
+      "sha1": "e27e6f66aafe01e7ec6c53f303b8bd5169b54c2a"
     },
     {
       "path": "content/mods/puzzles-lib.json",
@@ -570,7 +570,7 @@
     },
     {
       "path": "content/mods/ragdoll-revive.json",
-      "sha1": "78ef3e1dfdb56b071bc0ef53653f4ff5486c6392"
+      "sha1": "ca64283c1dfec7a2a3ab249a08d9d428cb511ba1"
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
@@ -590,7 +590,7 @@
     },
     {
       "path": "content/mods/reliable-replacer.json",
-      "sha1": "d5216648dfe79f8b12cc8f36005480028ce792f6"
+      "sha1": "41d6906265b65e5546997ccf48bd2244f3d2d3a1"
     },
     {
       "path": "content/mods/resourcify.json",
@@ -622,7 +622,7 @@
     },
     {
       "path": "content/mods/sablecompat.json",
-      "sha1": "9438c3af8e011dd640092869e46e64552ba2c8bf"
+      "sha1": "799489ca2c706bd2aa04517a1808ab24bc41ba26"
     },
     {
       "path": "content/mods/sage-brush.json",
@@ -630,7 +630,7 @@
     },
     {
       "path": "content/mods/scaffolding-drops-nearby.json",
-      "sha1": "07fa3039a7e99099a063dfb1a692e51d62aa33bb"
+      "sha1": "101a17528ec3ba3981bf91f419957370f2edcaa4"
     },
     {
       "path": "content/mods/searchables.json",
@@ -722,7 +722,7 @@
     },
     {
       "path": "content/mods/swing-through-grass.json",
-      "sha1": "13dfed1c5c2e2149532d9df8928ffe73503669f2"
+      "sha1": "050ed826fc4d6dac62723f0abfb5542b301de0ad"
     },
     {
       "path": "content/mods/tct-core.json",
@@ -782,7 +782,7 @@
     },
     {
       "path": "content/mods/vanishmod.json",
-      "sha1": "48a4a429be93ab2071ea3a745833944f5181d267"
+      "sha1": "2e6129ae0934f2641f175e3b6578a49561453dbe"
     },
     {
       "path": "content/mods/wakes-reforged.json",
@@ -794,7 +794,7 @@
     },
     {
       "path": "content/mods/worldedit.json",
-      "sha1": "9b991f57df88107871755ca7da988247a2142b66"
+      "sha1": "b26d03db2bfb01d9b2c9e36a9600bb19037c6d31"
     },
     {
       "path": "content/mods/yacl.json",
@@ -806,15 +806,15 @@
     },
     {
       "path": "content/mods/yungs-better-end-island.json",
-      "sha1": "ca14c56ecd660c625e204f1ba624790a91766a54"
+      "sha1": "abf43c74b74e73f4f6e1c021ea243d7fd3581e66"
     },
     {
       "path": "content/mods/yungs-better-strongholds.json",
-      "sha1": "5e419f731780c4b3a725b2076e75c8540a093cca"
+      "sha1": "2375d327b1351dddfa10e0b0b6f7b18b72ad8112"
     },
     {
       "path": "content/mods/yungs-better-witch-huts.json",
-      "sha1": "b1313ce8e428af18b836144e5b3bb8c453c13369"
+      "sha1": "efff49d9a97c37ed2eb3a73c7ef6e27a5f6818ab"
     },
     {
       "path": "content/mods/yungs-cave-biomes.json",
