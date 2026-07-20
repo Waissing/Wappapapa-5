@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 207 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 206 mods
 
 ## Contents
 
@@ -24,7 +24,6 @@
 - [Axiom](https://modrinth.com/project/axiom) `5.4.2`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.0`
 - [Balm](https://modrinth.com/project/balm) `21.0.62+neoforge-1.21.1`
-- [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.12`
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.2.0`
