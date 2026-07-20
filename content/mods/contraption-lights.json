@@ -1,24 +1,26 @@
 {
-  "name": "Contraption Lights",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "gUdYw8o3",
-      "pin": "5k3E315Z",
-      "slug": "contraption-lights",
-      "versionId": "5k3E315Z",
-      "versionNumber": "1.2.0",
-      "filename": "contraption-lights-neoforge-1.21.1-1.2.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/gUdYw8o3/versions/5k3E315Z/contraption-lights-neoforge-1.21.1-1.2.0.jar",
-      "sha1": "53931c556569e9f715ecbc0b99118a4da4418b63",
-      "sha512": "5fb33696ee7e8f31c79c5e2caae95c57081f94c8866ebe445c52a9efc1f7a747be9cfefb6cd0bbb829000160958710260ba3705e700a57dda5c05c046b6aee30",
-      "fileSize": 301545
-    }
-  },
-  "dependents": [],
-  "clientSide": "optional",
-  "serverSide": "optional"
+    "name":  "Contraption Lights",
+    "side":  "client",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "gUdYw8o3",
+                                     "pin":  "5k3E315Z",
+                                     "slug":  "contraption-lights",
+                                     "versionId":  "5k3E315Z",
+                                     "versionNumber":  "1.2.0",
+                                     "filename":  "contraption-lights-neoforge-1.21.1-1.2.0.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/gUdYw8o3/versions/5k3E315Z/contraption-lights-neoforge-1.21.1-1.2.0.jar",
+                                     "sha1":  "53931c556569e9f715ecbc0b99118a4da4418b63",
+                                     "sha512":  "5fb33696ee7e8f31c79c5e2caae95c57081f94c8866ebe445c52a9efc1f7a747be9cfefb6cd0bbb829000160958710260ba3705e700a57dda5c05c046b6aee30",
+                                     "fileSize":  301545
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "optional",
+    "serverSide":  "unsupported"
 }
