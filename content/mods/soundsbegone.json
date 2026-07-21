@@ -1,16 +1,25 @@
 {
-  "name": "Sounds Be Gone!",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "FOIvwGKz",
-      "slug": "soundsbegone"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "unsupported"
+    "name":  "Sounds Be Gone!",
+    "side":  "auto",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "FOIvwGKz",
+                                     "pin":  "v33OJbLO",
+                                     "slug":  "soundsbegone",
+                                     "versionId":  "v33OJbLO",
+                                     "versionNumber":  "1.5.2+neoforge-1.21",
+                                     "filename":  "soundsbegone-neoforge-1.5.2+mc1.21.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/FOIvwGKz/versions/v33OJbLO/soundsbegone-neoforge-1.5.2%2Bmc1.21.jar",
+                                     "sha1":  "06db49ba78dbd669ed8ca426dfd6f2bebb31c0b2",
+                                     "fileSize":  6154450
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "unsupported"
 }

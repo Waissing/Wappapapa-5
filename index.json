@@ -242,7 +242,7 @@
     },
     {
       "path": "content/mods/dripsounds.json",
-      "sha1": "24328ba8892c2be0dcac25779246f0508f83c3ab"
+      "sha1": "efb20a7a871207d50e22cf3b326be353b1e73902"
     },
     {
       "path": "content/mods/enderscape.json",
@@ -686,11 +686,11 @@
     },
     {
       "path": "content/mods/sound.json",
-      "sha1": "c54493d2cbc0f6000410ba4d4e6c565f5725476f"
+      "sha1": "e3b7c55b9673808155cc0f96e89bc969dccd75f1"
     },
     {
       "path": "content/mods/soundsbegone.json",
-      "sha1": "37e6981c27905719f9e066f24f02958830fa38c1"
+      "sha1": "b7607ad34c1feabf706f65fd4c825cc896f37aba"
     },
     {
       "path": "content/mods/spark.json",
