@@ -196,7 +196,7 @@
 - [Tiny Item Animations](https://modrinth.com/project/tiny-item-animations) `1.2.1`
 - [Tolerable Creepers](https://modrinth.com/project/tolerable-creepers) `2.2.3-1.21.1-neoforge`
 - [Traveler Tool Belt](https://modrinth.com/project/traveler-tool-belt) `1.21.1-1.0.2`
-- [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.2`
+- [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.3`
 - [Trimmed](https://modrinth.com/project/trimmed) `1.21-3.0.0+neoforge`
 - Truly Dark `trulydark-neoforge-1.21.1-2.1.0.jar` (curseforge)
 - [Undertale Death Screen](https://modrinth.com/project/undertale-death-screen) `1.3.3+1.20.6`
