@@ -7,6 +7,6 @@
         lanternDisplayPriority: "playerPriority"
     },
     armourPartOffset: true,
-    firstPersonAnims: true,
+    firstPersonAnims: false,
     shieldModel: true
 }
