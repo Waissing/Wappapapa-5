@@ -857,6 +857,10 @@
       "sha1": "cf689fe3924f626ada792a02462d8baf3a95a281"
     },
     {
+      "path": "overrides/config/shouldersurfing-client.toml",
+      "sha1": "369b30efe3682130d79d06fc0a6a3feacbdc5bc0"
+    },
+    {
       "path": "overrides/config/trulydark.properties",
       "sha1": "80488518dd68b582ba8a91df45cd583e929d867f"
     },
