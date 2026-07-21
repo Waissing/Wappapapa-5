@@ -3025,6 +3025,10 @@
       "sha1": "e77ddc5256deb66c68125e1f7206c7b239355e3b"
     },
     {
+      "path": "overrides/mods/grassiergrass-neoforge-1.4.5-patched.1+mc1.21.1.jar",
+      "sha1": "ac1fd78db096044153b510842b8624ac8a89529b"
+    },
+    {
       "path": "overrides/mods/spawn_dh_fix-1.0.0.jar",
       "sha1": "ee2b59a9f91485fae308dc667fe0cbff0c545217"
     },
