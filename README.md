@@ -67,7 +67,7 @@
 - [Diamond's Cloud Layers](https://modrinth.com/project/cloudlayers) `1.21.1-1.1`
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
-- [Drip Sounds](https://modrinth.com/project/dripsounds)
+- [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
@@ -178,8 +178,8 @@
 - [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/project/sodium-shadowy-path-blocks) `4.1.0-neoforge`
 - [Sooty Chimneys](https://modrinth.com/project/sooty-chimneys) `1.3.5`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.1`
-- [Sounds](https://modrinth.com/project/sound)
-- [Sounds Be Gone!](https://modrinth.com/project/soundsbegone)
+- [Sounds](https://modrinth.com/project/sound) `2.4.22+lts+1.21.1-neoforge`
+- [Sounds Be Gone!](https://modrinth.com/project/soundsbegone) `1.5.2+neoforge-1.21`
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.4`
 - Spawn C2ME Fix `spawn_c2me_fix-1.21.1-1.0.0.jar` (curseforge)
