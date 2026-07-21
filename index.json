@@ -853,6 +853,10 @@
       "sha1": "576ca2b4d69519df8dd4c50c66b7f3bb1cdecf5e"
     },
     {
+      "path": "overrides/config/grassiergrass-client.toml",
+      "sha1": "cf689fe3924f626ada792a02462d8baf3a95a281"
+    },
+    {
       "path": "overrides/config/trulydark.properties",
       "sha1": "80488518dd68b582ba8a91df45cd583e929d867f"
     },
