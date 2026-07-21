@@ -1,0 +1,16 @@
+{
+  "name": "Sounds Be Gone!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FOIvwGKz",
+      "slug": "soundsbegone"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

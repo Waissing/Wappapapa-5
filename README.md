@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 207 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 209 mods
 
 ## Contents
 
@@ -67,6 +67,7 @@
 - [Diamond's Cloud Layers](https://modrinth.com/project/cloudlayers) `1.21.1-1.1`
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
+- [Drip Sounds](https://modrinth.com/project/dripsounds)
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
@@ -175,9 +176,10 @@
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.3+neoforge`
 - [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/project/sodium-shadowy-path-blocks) `4.1.0-neoforge`
-- [Soft Imprints](https://modrinth.com/project/snow-imprints) `2.8.0`
 - [Sooty Chimneys](https://modrinth.com/project/sooty-chimneys) `1.3.5`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.1`
+- [Sounds](https://modrinth.com/project/sound)
+- [Sounds Be Gone!](https://modrinth.com/project/soundsbegone)
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.4`
 - Spawn C2ME Fix `spawn_c2me_fix-1.21.1-1.0.0.jar` (curseforge)

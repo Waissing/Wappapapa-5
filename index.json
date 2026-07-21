@@ -110,7 +110,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "2842585d07dfe82eea34a49f283d45cb4eba721e"
+      "sha1": "ecd59d91df642a04c0ca8011c713d7c982699e54"
     },
     {
       "path": "content/mods/clothing-of-the-lowlands.json",
@@ -239,6 +239,10 @@
     {
       "path": "content/mods/dramatic-doors.json",
       "sha1": "199670a42d491858fedf19f47f32c4ff2c5e28ee"
+    },
+    {
+      "path": "content/mods/dripsounds.json",
+      "sha1": "24328ba8892c2be0dcac25779246f0508f83c3ab"
     },
     {
       "path": "content/mods/enderscape.json",
@@ -458,7 +462,7 @@
     },
     {
       "path": "content/mods/mru.json",
-      "sha1": "5ae875626ab633ec7eaad38c6a1cbc4a26b18c7b"
+      "sha1": "67f4fd0875e10adfd8eb2ef8bcda486580e19f9b"
     },
     {
       "path": "content/mods/naturalist.json",
@@ -661,10 +665,6 @@
       "sha1": "b9b57e0d4e31a190749f2a171e1f30fdcb7a2612"
     },
     {
-      "path": "content/mods/snow-imprints.json",
-      "sha1": "d440f4d8bd73818b2cf8de83bcaeeef5a94dc6fb"
-    },
-    {
       "path": "content/mods/sodium-extra.json",
       "sha1": "5ad0df1360a811a9dcd38dd6f6f6fee50dea7b44"
     },
@@ -683,6 +683,14 @@
     {
       "path": "content/mods/sound-physics-remastered.json",
       "sha1": "131f91d70725cc1f2fea0a7c77b7ec6f1bac967e"
+    },
+    {
+      "path": "content/mods/sound.json",
+      "sha1": "c54493d2cbc0f6000410ba4d4e6c565f5725476f"
+    },
+    {
+      "path": "content/mods/soundsbegone.json",
+      "sha1": "37e6981c27905719f9e066f24f02958830fa38c1"
     },
     {
       "path": "content/mods/spark.json",
@@ -798,7 +806,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "5c1cd8bf1127f793c441f24609d7f488b7c5ff70"
+      "sha1": "81915a796c36ebd4fc494540271a72b8a6f1e216"
     },
     {
       "path": "content/mods/yungs-api.json",
@@ -975,6 +983,10 @@
     {
       "path": "overrides/config/axiom/axiom.json",
       "sha1": "f403f73aaadf91b5c567f6751438857dac4afc66"
+    },
+    {
+      "path": "overrides/config/axiom/imgui.ini",
+      "sha1": "ccd31aea7ef0272555b8c512420646dd17c1f41d"
     },
     {
       "path": "overrides/config/azimuth-client.toml",
