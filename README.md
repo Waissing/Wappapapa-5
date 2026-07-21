@@ -41,7 +41,7 @@
 - [Configuration](https://modrinth.com/project/configuration) `3.1.1`
 - [Connector Extras](https://modrinth.com/project/connector-extras) `1.12.1+1.21.1`
 - [Continuity](https://modrinth.com/project/continuity) `3.0.0+1.21.neoforge`
-- [Contraption Lights](https://modrinth.com/project/contraption-lights) `1.2.0`
+- [Contraption Lights (Bi-directional Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.2.0`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.1`
 - Cosmetic Armor Reworked `cosmeticarmorreworked-1.21.1-v1-neoforge.jar` (curseforge)

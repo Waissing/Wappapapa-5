@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/contraption-lights.json",
-      "sha1": "058bea8e9ac2b21f3d1c856c060b4b704eac3bd3"
+      "sha1": "0f04b867c2b330d82671c1b1cfc6e79524b46bbb"
     },
     {
       "path": "content/mods/controlling.json",
@@ -861,12 +861,12 @@
       "sha1": "80488518dd68b582ba8a91df45cd583e929d867f"
     },
     {
-      "path": "overrides/config/wappatweaks/pending-options.txt",
-      "sha1": "eef395444fc7648a21dce8a91ffc21c80b580e01"
-    },
-    {
       "path": "overrides/config/wappatweaks.properties",
       "sha1": "f8bc21ee5077e01de83bbc369f3081775b816bbe"
+    },
+    {
+      "path": "overrides/config/wappatweaks/pending-options.txt",
+      "sha1": "eef395444fc7648a21dce8a91ffc21c80b580e01"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",

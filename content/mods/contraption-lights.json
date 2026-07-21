@@ -1,5 +1,5 @@
 {
-  "name": "Contraption Lights",
+  "name": "Contraption Lights (Bi-directional Dynamic Lights)",
   "side": "client",
   "explicit": true,
   "disabled": false,
