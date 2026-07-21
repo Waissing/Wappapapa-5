@@ -2025,6 +2025,10 @@
                       "sha1":  "07ec98a955c032e26a770fcbfc36bdd1eba4e918"
                   },
                   {
+                      "path":  "overrides/config/soundsbegone.json",
+                      "sha1":  "3602abf04c8ed462a2315d91ea3b6f1f2c2d78f4"
+                  },
+                  {
                       "path":  "overrides/config/spawn-client.toml",
                       "sha1":  "9bf760ecaab5c3661efdbc8543e4119f4d5babcd"
                   },

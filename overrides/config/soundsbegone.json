@@ -1,0 +1,10 @@
+{
+  "lastVersionSeen": "",
+  "telemetry": true,
+  "frequencyPercentage": 10.0,
+  "sounds": [
+    "minecraft:item.trident.riptide_1",
+    "minecraft:entity.illusioner.mirror_move"
+  ],
+  "infrequent": []
+}
