@@ -1,16 +1,25 @@
 {
-  "name": "RightClickHarvest",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "Cnejf5xM",
-      "slug": "rightclickharvest"
-    }
-  },
-  "dependents": [],
-  "clientSide": "unsupported",
-  "serverSide": "required"
+    "name":  "RightClickHarvest",
+    "side":  "auto",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "Cnejf5xM",
+                                     "pin":  "djt0zS53",
+                                     "slug":  "rightclickharvest",
+                                     "versionId":  "djt0zS53",
+                                     "versionNumber":  "4.6.1+1.21.1",
+                                     "filename":  "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/Cnejf5xM/versions/djt0zS53/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar",
+                                     "sha1":  "473b960c0cae751b7752a43df4756010e30988fa",
+                                     "fileSize":  287634
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "unsupported",
+    "serverSide":  "required"
 }
