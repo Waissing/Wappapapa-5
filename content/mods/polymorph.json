@@ -1,0 +1,16 @@
+{
+  "name": "Polymorph",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tagwiZkJ",
+      "slug": "polymorph"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

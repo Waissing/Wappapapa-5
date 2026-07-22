@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 209 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 211 mods (1 dependency)
 
 ## Contents
 
@@ -141,6 +141,7 @@
 - [Pet Cemetery](https://modrinth.com/project/pet-cemetery) `3.0.1`
 - [Pick Up Notifier](https://modrinth.com/project/pick-up-notifier) `v21.1.1-1.21.1-NeoForge`
 - [Places](https://modrinth.com/project/places) `0.4.9`
+- [Polymorph](https://modrinth.com/project/polymorph)
 - [Portfolio](https://modrinth.com/project/portfolio) `1.5.5-neoforge`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
@@ -155,6 +156,7 @@
 - [Resourcify](https://modrinth.com/project/resourcify) `1.8.3`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Ribbits](https://modrinth.com/project/ribbits) `4.1.6`
+- [RightClickHarvest](https://modrinth.com/project/rightclickharvest)
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
 - [Sable](https://modrinth.com/project/sable) `2.0.3+mc1.21.1`
 - [Sable Touys](https://modrinth.com/project/touys) `neoforge-1.1.0`
