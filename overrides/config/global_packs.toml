@@ -13,7 +13,7 @@ log_pack_ids = false
 # This config allows you to add or remove folders or single files as Data-/Resourcepacks
 # For that simply specify the file path to the folder/file relative to your <instance> folder
 [resourcepacks]
-	required = ["global_packs/required_resources/"]
+	required = ["global_packs/required_resources/", "resourcepacks/Farcr's Re-Crafted V2.28.1.zip", "resourcepacks/Brush & Juice.zip", "resourcepacks/Fancy Crops v1.3.zip", "resourcepacks/LowOnFire v26.2§8.zip", "resourcepacks/Simple Radio Re-Created 1.0.zip", "resourcepacks/You-Take-the-Moon-and-You-Take-the-Sun.zip", "resourcepacks/Farcr's Better Dirt V1.2.zip", "resourcepacks/Farcrs Better Dirt - Modded Compat.zip", "resourcepacks/FA+Player-vEA.0.4.1.zip", "resourcepacks/Authentic Shadows_1.21+.zip", "resourcepacks/Neutral Sea Grass and Kelp.zip", "resourcepacks/Probleyes Creatures.zip", "resourcepacks/probleyes_produce_1.6.zip", "resourcepacks/Supplementaries Rope Redone v2.0.zip", "resourcepacks/Supplementaries Touch-Ups v0.2.zip", "resourcepacks/ModdedGalleryCompat1.21.1-1.6.zip", "resourcepacks/Wayfarer-Pack.zip"]
 	# Check game log if log_pack_ids is set to true, you need to add the full IDs listed in there.
 	# Search for "# Listing Resource Packs #" inside the log
 	enable_builtin = []

@@ -1,25 +1,24 @@
 {
-    "name":  "Reconnectible Chains",
-    "side":  "auto",
-    "explicit":  true,
-    "disabled":  false,
-    "preferred":  "modrinth",
-    "sources":  {
-                    "modrinth":  {
-                                     "id":  "5pzBXDS3",
-                                     "pin":  "kxlFAdAZ",
-                                     "slug":  "reconnectible-chains",
-                                     "versionId":  "kxlFAdAZ",
-                                     "versionNumber":  "2.2.5-1.21.1-neoforge",
-                                     "filename":  "connectiblechains-neoforge-1.21.1-2.2.5.jar",
-                                     "downloadUrl":  "https://cdn.modrinth.com/data/5pzBXDS3/versions/kxlFAdAZ/connectiblechains-neoforge-1.21.1-2.2.5.jar",
-                                     "sha1":  "b2f84ac887087169ee257907bfd9544e0621c943",
-                                     "fileSize":  207142
-                                 }
-                },
-    "dependents":  [
-
-                   ],
-    "clientSide":  "required",
-    "serverSide":  "required"
+  "name": "Reconnectible Chains",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5pzBXDS3",
+      "pin": "kxlFAdAZ",
+      "slug": "reconnectible-chains",
+      "versionId": "kxlFAdAZ",
+      "versionNumber": "2.2.5-1.21.1-neoforge",
+      "filename": "connectiblechains-neoforge-1.21.1-2.2.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5pzBXDS3/versions/kxlFAdAZ/connectiblechains-neoforge-1.21.1-2.2.5.jar",
+      "sha1": "b2f84ac887087169ee257907bfd9544e0621c943",
+      "sha512": "afc1f8c7af27cbae2fa27dc0d2142818b440a80cd6888aef254cc26dd4ce0e632951bb18ad94893f62272c26f255d2800a0370e6103eb1243adfdacd4260e01e",
+      "fileSize": 207142
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
 }

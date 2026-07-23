@@ -382,7 +382,7 @@
                   },
                   {
                       "path":  "content/mods/jamlib.json",
-                      "sha1":  "eb4b186241e3478d0fd08f2b8a2b04a74e9e44ae"
+                      "sha1":  "ea7de5ad6f25ea0a44dbb6473a840cdcb0453fb9"
                   },
                   {
                       "path":  "content/mods/jei.json",
@@ -586,7 +586,7 @@
                   },
                   {
                       "path":  "content/mods/reconnectible-chains.json",
-                      "sha1":  "975f15a5b653627373aad7ad0f5c2a9fc36611c5"
+                      "sha1":  "92cf248ad0c4e1a230f1d06b41a1e34137bb0e2c"
                   },
                   {
                       "path":  "content/mods/reeses-sodium-options.json",
@@ -1438,7 +1438,7 @@
                   },
                   {
                       "path":  "overrides/config/global_packs.toml",
-                      "sha1":  "8c993c997dd419811e399eb8825fb894f15976e4"
+                      "sha1":  "8b305d135cfd0c43e1337da3ab20aeff75754866"
                   },
                   {
                       "path":  "overrides/config/grapplemod-client.json",
@@ -2166,7 +2166,7 @@
                   },
                   {
                       "path":  "overrides/config/wappatweaks/pending-options.txt",
-                      "sha1":  "eef395444fc7648a21dce8a91ffc21c80b580e01"
+                      "sha1":  "2acc46608297540ff5df17eaae8f2bad05541fda"
                   },
                   {
                       "path":  "overrides/config/windy-config.json",

@@ -149,7 +149,7 @@
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Ragdoll Revive](https://modrinth.com/project/ragdoll-revive) `1.4`
-- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains)
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.2.5-1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `2.2.0-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.9.4-1.21.1-neoforge`
