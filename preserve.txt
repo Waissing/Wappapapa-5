@@ -1,0 +1,4 @@
+# Files delivered by the pack once, then owned by the player.
+# The updater installs these when missing but never overwrites or deletes
+# local changes (glob patterns, one per line).
+resourcepacks/*.rpo
