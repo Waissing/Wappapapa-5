@@ -1,18 +1,16 @@
 {
-  "name": "JamLib",
+  "name": "Reconnectible Chains",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
-      "id": "IYY9Siz8",
-      "slug": "jamlib"
+      "id": "5pzBXDS3",
+      "slug": "reconnectible-chains"
     }
   },
-  "dependents": [
-    "Cnejf5xM"
-  ],
+  "dependents": [],
   "clientSide": "required",
   "serverSide": "required"
 }

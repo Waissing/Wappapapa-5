@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 211 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 212 mods (1 dependency)
 
 ## Contents
 
@@ -141,7 +141,7 @@
 - [Pet Cemetery](https://modrinth.com/project/pet-cemetery) `3.0.1`
 - [Pick Up Notifier](https://modrinth.com/project/pick-up-notifier) `v21.1.1-1.21.1-NeoForge`
 - [Places](https://modrinth.com/project/places) `0.4.9`
-- [Polymorph](https://modrinth.com/project/polymorph)
+- [Polymorph](https://modrinth.com/project/polymorph) `1.1.0+1.21.1`
 - [Portfolio](https://modrinth.com/project/portfolio) `1.5.5-neoforge`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
@@ -149,6 +149,7 @@
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
 - [Ragdoll Revive](https://modrinth.com/project/ragdoll-revive) `1.4`
+- [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains)
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `2.2.0-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.9.4-1.21.1-neoforge`
@@ -156,7 +157,7 @@
 - [Resourcify](https://modrinth.com/project/resourcify) `1.8.3`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Ribbits](https://modrinth.com/project/ribbits) `4.1.6`
-- [RightClickHarvest](https://modrinth.com/project/rightclickharvest)
+- [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
 - [Sable](https://modrinth.com/project/sable) `2.0.3+mc1.21.1`
 - [Sable Touys](https://modrinth.com/project/touys) `neoforge-1.1.0`
