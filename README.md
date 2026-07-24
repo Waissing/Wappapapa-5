@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 212 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 214 mods (2 dependencies)
 
 ## Contents
 
@@ -100,6 +100,7 @@
 - ImmersiveThunder `1.3.0 for NeoForge 1.21.1` (curseforge)
 - [In Control!](https://modrinth.com/project/in-control) `1.21-10.2.6`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
+- [JamLib](https://modrinth.com/project/jamlib) `1.3.6+1.21.1`
 - [Just Dandy](https://modrinth.com/project/just-dandy) `3.0.4`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.37.0.362`
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `1.4.0`
@@ -136,6 +137,7 @@
 - [Particle Interactions](https://modrinth.com/project/particle-interactions) `0.4.1`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.10+1.21.1-neoforge`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.5`
+- Peaceless (curseforge)
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Personality](https://modrinth.com/project/personality!) `5.0.2`
 - [Pet Cemetery](https://modrinth.com/project/pet-cemetery) `3.0.1`
@@ -184,7 +186,7 @@
 - [Sounds](https://modrinth.com/project/sound) `2.4.22+lts+1.21.1-neoforge`
 - [Sounds Be Gone!](https://modrinth.com/project/soundsbegone) `1.5.2+neoforge-1.21`
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
-- [Spawn](https://modrinth.com/project/spawn-mod) `4.0.4`
+- [Spawn](https://modrinth.com/project/spawn-mod) `4.0.5`
 - Spawn C2ME Fix `spawn_c2me_fix-1.21.1-1.0.0.jar` (curseforge)
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta+neoforge-mc1.21.1`
 - [Strut Your Stuff](https://modrinth.com/project/strut-your-stuff) `1.2.5`
