@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 214 mods (2 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 215 mods (1 dependency)
 
 ## Contents
 
@@ -195,6 +195,7 @@
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Swing Through Grass](https://modrinth.com/project/swing-through-grass) `1.0.0`
 - [TCT Core](https://modrinth.com/project/tct-core) `2.1`
+- Teal Lib (curseforge)
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.26-neoforge-21.1`
 - [TerraBlender](https://modrinth.com/project/terrablender) `4.1.0.8`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`
