@@ -3,15 +3,23 @@
   "side": "auto",
   "explicit": false,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "1597849",
-      "slug": "teallib"
+    "modrinth": {
+      "id": "rLJ1qF79",
+      "pin": "oOfex2h6",
+      "slug": "teallib",
+      "versionId": "oOfex2h6",
+      "versionNumber": "1.2.teal",
+      "filename": "teallib-1.2.teal.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rLJ1qF79/versions/oOfex2h6/teallib-1.2.teal.jar",
+      "sha1": "8e13d5ef60bcc5a9263f6499fd7a86b5e036af11",
+      "sha512": "a7aa5dd2006288b64b4564f2caaf1f1fe53739faaf991cc42cb685f3689cb51e2ef53fcb878a1790c1784225b426b082f6401ec3f6795ee481c96924a87d00d5",
+      "fileSize": 261610
     }
   },
   "dependents": [
-    "1622671"
+    "rex9wwpz"
   ],
   "clientSide": "required",
   "serverSide": "required"
