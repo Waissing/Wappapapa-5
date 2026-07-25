@@ -533,10 +533,6 @@
       "sha1": "42149ab0f3893e1ab656d9385fd4a0e03e74b365"
     },
     {
-      "path": "content/mods/peaceless.json",
-      "sha1": "3226ebac85904a1f40ef944720ae39fb9a43856e"
-    },
-    {
       "path": "content/mods/penchant.json",
       "sha1": "ab2a84bfdedcc39f6be2bc7ec3cd9fc452f9a5bd"
     },
@@ -718,7 +714,7 @@
     },
     {
       "path": "content/mods/spawn-mod.json",
-      "sha1": "2d9114b66414ee9eb717c208c7d7e0284567c146"
+      "sha1": "8b47a0522e3f1e155fe93262e70aacc4de9b4c7d"
     },
     {
       "path": "content/mods/ssrd.json",
@@ -751,10 +747,6 @@
     {
       "path": "content/mods/tct-core.json",
       "sha1": "9b861c91267ae9e96ad0f7acc6612a5db3adbe6d"
-    },
-    {
-      "path": "content/mods/teallib.json",
-      "sha1": "8c17dc3e04cd5df8c38182cd3111afe934cef9ba"
     },
     {
       "path": "content/mods/tectonic.json",
