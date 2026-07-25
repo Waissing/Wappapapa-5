@@ -750,7 +750,7 @@
     },
     {
       "path": "content/mods/teallib.json",
-      "sha1": "7d9c3bd7982d4115fa024c696a5c4a700ffd79f2"
+      "sha1": "982ea8ea1c411ab729df8eb36f5565c454d4df70"
     },
     {
       "path": "content/mods/tectonic.json",
@@ -2775,10 +2775,6 @@
     {
       "path": "overrides/mods/.index/ragdoll-reactions.pw.toml",
       "sha1": "739c556d8ab51b44d7690bc41c06efff218453a5"
-    },
-    {
-      "path": "overrides/mods/.index/ragdoll-revive.pw.toml",
-      "sha1": "eee4ca1aa196fbf9e7d2f0336ae8be489a668493"
     },
     {
       "path": "overrides/mods/.index/reeses-sodium-options.pw.toml",
