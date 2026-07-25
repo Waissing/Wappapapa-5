@@ -10,12 +10,11 @@
       "pin": "Mc8c06fJ",
       "slug": "legacyfreecam",
       "versionId": "Mc8c06fJ",
-      "versionNumber": "1.1.2",
-      "filename": "legacy-freecam-neoforge-1.1.2+mc1.21.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/tWqI1yhH/versions/Mc8c06fJ/legacy-freecam-neoforge-1.1.2%2Bmc1.21.jar",
-      "sha1": "982b3b3d3e0c1cdd91f784d52217681848119c51",
-      "sha512": "2c9793869c8563851ebd43ac695ba5083ed2a414a9270835eca1cbf3cb3f0f5d5cd81abbf073b7bb152dd43bcbe0db7543126528eda967bc8e7c59d8a22e135c",
-      "fileSize": 1147653
+      "versionNumber": "1.1.2-wappafix",
+      "filename": "legacy-freecam-neoforge-1.1.2+mc1.21-wappafix.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Waissing/Wappapapa-5/master/patched/legacy-freecam-neoforge-1.1.2%2Bmc1.21-wappafix.jar",
+      "sha1": "944ea1045fec2e07bd8971eac8be2b2aa21c5caa",
+      "fileSize": 1147680
     }
   },
   "dependents": [],
