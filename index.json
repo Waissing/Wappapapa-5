@@ -329,6 +329,10 @@
       "sha1": "bf168a6054454059502984b2d2b2dc0a193798ee"
     },
     {
+      "path": "content/mods/freecam.json",
+      "sha1": "51f797874219f06f0db828dd7ca12abb1036d5aa"
+    },
+    {
       "path": "content/mods/fzzy-config.json",
       "sha1": "5e1fc6e6ea6197e5b77cd47a73073b922bafaa80"
     },
@@ -750,7 +754,7 @@
     },
     {
       "path": "content/mods/teallib.json",
-      "sha1": "982ea8ea1c411ab729df8eb36f5565c454d4df70"
+      "sha1": "7d9c3bd7982d4115fa024c696a5c4a700ffd79f2"
     },
     {
       "path": "content/mods/tectonic.json",

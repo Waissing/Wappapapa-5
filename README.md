@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 212 mods (2 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 213 mods (2 dependencies)
 
 ## Contents
 
@@ -85,6 +85,7 @@
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
+- [Freecam](https://modrinth.com/project/freecam)
 - [Furniture with create and sable compat](https://modrinth.com/project/lets-do-furniture-another-furniture-handcrafted-create-sable) `4.8.42`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.6+1.21+neoforge`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
