@@ -1,7 +1,7 @@
 {
   "name": "Teal Lib",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
