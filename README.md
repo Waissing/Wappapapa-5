@@ -85,7 +85,7 @@
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
-- [Freecam](https://modrinth.com/project/freecam) `1.3.0+mc1.21.1`
+- [Freecam (Fair Play)](https://modrinth.com/project/legacyfreecam)
 - [Furniture with create and sable compat](https://modrinth.com/project/lets-do-furniture-another-furniture-handcrafted-create-sable) `4.8.42`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.6+1.21+neoforge`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`

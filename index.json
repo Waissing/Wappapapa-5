@@ -329,10 +329,6 @@
       "sha1": "bf168a6054454059502984b2d2b2dc0a193798ee"
     },
     {
-      "path": "content/mods/freecam.json",
-      "sha1": "36e490a34b010c2408adce0f90235c2784dc3a88"
-    },
-    {
       "path": "content/mods/fzzy-config.json",
       "sha1": "5e1fc6e6ea6197e5b77cd47a73073b922bafaa80"
     },
@@ -403,6 +399,10 @@
     {
       "path": "content/mods/lambdynamiclights.json",
       "sha1": "4d9d0e47d1af9d8759ba494988e20327d20ee243"
+    },
+    {
+      "path": "content/mods/legacyfreecam.json",
+      "sha1": "d1f0aca3a5c20719b44f3d63fa909e16f4ae2c08"
     },
     {
       "path": "content/mods/lets-do-furniture-another-furniture-handcrafted-create-sable.json",
@@ -758,7 +758,7 @@
     },
     {
       "path": "content/mods/teallib.json",
-      "sha1": "7d9c3bd7982d4115fa024c696a5c4a700ffd79f2"
+      "sha1": "db6a93ea5a5b7350f4424d5a4c5e46fafa85805b"
     },
     {
       "path": "content/mods/tectonic.json",

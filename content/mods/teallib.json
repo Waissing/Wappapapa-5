@@ -3,15 +3,15 @@
   "side": "auto",
   "explicit": false,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "1597849",
+    "modrinth": {
+      "id": "rLJ1qF79",
       "slug": "teallib"
     }
   },
   "dependents": [
-    "1622671"
+    "rex9wwpz"
   ],
   "clientSide": "required",
   "serverSide": "required"
