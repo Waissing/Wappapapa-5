@@ -1,2 +1,0 @@
-resourcePacks:["vanilla","fabric","moonlight:merged_pack","mod_resources","continuity:default"]
-incompatibleResourcePacks:[]
