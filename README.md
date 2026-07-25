@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 215 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 213 mods (2 dependencies)
 
 ## Contents
 
@@ -85,7 +85,6 @@
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
-- [Freecam (Fair Play)](https://modrinth.com/project/legacyfreecam)
 - [Furniture with create and sable compat](https://modrinth.com/project/lets-do-furniture-another-furniture-handcrafted-create-sable) `4.8.42`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.6+1.21+neoforge`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
@@ -137,7 +136,7 @@
 - [Particle Interactions](https://modrinth.com/project/particle-interactions) `0.4.1`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.10+1.21.1-neoforge`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.5`
-- Peaceless (curseforge)
+- Peaceless `Peaceless 1.0` (curseforge)
 - [Penchant](https://modrinth.com/project/penchant) `0.3.7+connector+mc1.21.1`
 - [Personality](https://modrinth.com/project/personality!) `5.0.2`
 - [Pet Cemetery](https://modrinth.com/project/pet-cemetery) `3.0.1`
@@ -195,7 +194,6 @@
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Swing Through Grass](https://modrinth.com/project/swing-through-grass) `1.0.0`
 - [TCT Core](https://modrinth.com/project/tct-core) `2.1`
-- Teal Lib (curseforge)
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.26-neoforge-21.1`
 - [TerraBlender](https://modrinth.com/project/terrablender) `4.1.0.8`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`

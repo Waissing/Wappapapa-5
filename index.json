@@ -401,10 +401,6 @@
       "sha1": "4d9d0e47d1af9d8759ba494988e20327d20ee243"
     },
     {
-      "path": "content/mods/legacyfreecam.json",
-      "sha1": "403a3c4ecf8811cccb0b23bf43790aafee51d288"
-    },
-    {
       "path": "content/mods/lets-do-furniture-another-furniture-handcrafted-create-sable.json",
       "sha1": "9180d3341a4ca19543eb4ff1ad5f0729629f859f"
     },
@@ -758,7 +754,7 @@
     },
     {
       "path": "content/mods/teallib.json",
-      "sha1": "982ea8ea1c411ab729df8eb36f5565c454d4df70"
+      "sha1": "db6a93ea5a5b7350f4424d5a4c5e46fafa85805b"
     },
     {
       "path": "content/mods/tectonic.json",
