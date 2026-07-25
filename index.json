@@ -122,7 +122,7 @@
     },
     {
       "path": "content/mods/collective.json",
-      "sha1": "5ca87d6a836490b4c97066975ff126a68bcc0b26"
+      "sha1": "3f3aefb9ecd6959281fda87aefa17aa8d494a682"
     },
     {
       "path": "content/mods/configuration.json",
@@ -225,8 +225,8 @@
       "sha1": "5c56738ea828aa8401e3cb0611e73e86a85ad393"
     },
     {
-      "path": "content/mods/death-finder.json",
-      "sha1": "8569374c876e6ad542aca9c5025cc568de694226"
+      "path": "content/mods/death-backup.json",
+      "sha1": "b0048d0de0261f309dd25baa2a9c62fc44b753c7"
     },
     {
       "path": "content/mods/deployer.json",
@@ -574,7 +574,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "a489600d4c9052924169daa35887df5934744599"
+      "sha1": "8afd9dc231cd3f0c2e3c62873081ebf39fb6fbf2"
     },
     {
       "path": "content/mods/ragdoll-reactions.json",
@@ -2221,6 +2221,10 @@
       "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
     },
     {
+      "path": "overrides/global_packs/required_data/death-coordinates-v1.0.3.zip",
+      "sha1": "a8f8a6d30c01b33116b02501091b19ebd7e35b9c"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
     },
@@ -2443,10 +2447,6 @@
     {
       "path": "overrides/mods/.index/curios.pw.toml",
       "sha1": "95ad26506ff9a12e9c644847b694c22354b1c825"
-    },
-    {
-      "path": "overrides/mods/.index/death-finder.pw.toml",
-      "sha1": "9b6dac5ed57b6192bf41885964d421cf7f743241"
     },
     {
       "path": "overrides/mods/.index/deployer.pw.toml",

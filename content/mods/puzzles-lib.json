@@ -19,8 +19,7 @@
     }
   },
   "dependents": [
-    "ZX66K16c",
-    "wNxIBREV"
+    "ZX66K16c"
   ],
   "clientSide": "optional",
   "serverSide": "optional"

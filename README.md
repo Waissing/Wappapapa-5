@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 213 mods (2 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 214 mods (2 dependencies)
 
 ## Contents
 
@@ -63,7 +63,8 @@
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.1.3`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
-- [Death Finder](https://modrinth.com/project/death-finder) `v21.1.1-1.21.1-NeoForge`
+- [Death Backup](https://modrinth.com/project/death-backup)
+- [Death Coordinates](https://modrinth.com/project/death_coordinates)
 - [Diamond's Cloud Layers](https://modrinth.com/project/cloudlayers) `1.21.1-1.1`
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
