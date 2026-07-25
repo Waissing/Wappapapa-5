@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 214 mods (2 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 212 mods (2 dependencies)
 
 ## Contents
 
@@ -63,8 +63,7 @@
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.1.3`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
-- [Death Backup](https://modrinth.com/project/death-backup)
-- [Death Coordinates](https://modrinth.com/project/death_coordinates)
+- [Death Backup](https://modrinth.com/project/death-backup) `1.21.1-3.6-fabric+forge+neo`
 - [Diamond's Cloud Layers](https://modrinth.com/project/cloudlayers) `1.21.1-1.1`
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
@@ -150,7 +149,6 @@
 - [Pretty Beaches](https://modrinth.com/project/pretty-beaches) `21.1.3+neoforge-1.21.1`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
-- [Ragdoll Revive](https://modrinth.com/project/ragdoll-revive) `1.4`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.2.5-1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `2.2.0-1.21.1-neoforge`

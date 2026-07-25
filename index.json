@@ -581,10 +581,6 @@
       "sha1": "093770e477db47e6c8201bc84a29d591016910b1"
     },
     {
-      "path": "content/mods/ragdoll-revive.json",
-      "sha1": "ca64283c1dfec7a2a3ab249a08d9d428cb511ba1"
-    },
-    {
       "path": "content/mods/reconnectible-chains.json",
       "sha1": "92cf248ad0c4e1a230f1d06b41a1e34137bb0e2c"
     },
@@ -634,11 +630,11 @@
     },
     {
       "path": "content/mods/sable-ragdolls.json",
-      "sha1": "dd6ad67e53fb5cacf6340cb12af0046780cf3d7c"
+      "sha1": "9597a41033a5e27db2e5d584e4b9208611528953"
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "3dc3d2dd84682259ae9c8ae3e410c77b3f529edf"
+      "sha1": "15b7e46dc5cd343997edb6e8474eec6616401d9f"
     },
     {
       "path": "content/mods/sablecompat.json",
@@ -754,7 +750,7 @@
     },
     {
       "path": "content/mods/teallib.json",
-      "sha1": "982ea8ea1c411ab729df8eb36f5565c454d4df70"
+      "sha1": "7d9c3bd7982d4115fa024c696a5c4a700ffd79f2"
     },
     {
       "path": "content/mods/tectonic.json",
