@@ -1,16 +1,26 @@
 {
-  "name": "Mo' Potions",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "5BkWEzkP",
-      "slug": "ldm-mo-potions"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "Mo\u0027 Potions",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "5BkWEzkP",
+                                     "slug":  "ldm-mo-potions",
+                                     "pin":  "9t69VZOu",
+                                     "versionId":  "9t69VZOu",
+                                     "versionNumber":  "1.7.0+1.21.1",
+                                     "filename":  "mo_potions-1.7.0+1.21.1.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/5BkWEzkP/versions/9t69VZOu/mo_potions-1.7.0%2B1.21.1.jar",
+                                     "sha1":  "8fa11872d41ff03792196667a42613d04337fd86",
+                                     "sha512":  "ae0a81c3c0f066abe6c9c252f9e4cdde195cdbac78471af3e0e0854814e800c1cabaad40df1aebf50bfc7bdad2e1ad6ef887a8951260196646231542f4afd3da",
+                                     "fileSize":  238356
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }
