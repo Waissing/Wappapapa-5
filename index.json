@@ -169,10 +169,6 @@
                       "sha1":  "3585a13668d1b1675bc00f34839cf1e3b0c848d9"
                   },
                   {
-                      "path":  "content/mods/crafttweaker.json",
-                      "sha1":  "794ef4dfefca52d4dbd45336bee1c1af8001d3f4"
-                  },
-                  {
                       "path":  "content/mods/create-aeronautics.json",
                       "sha1":  "84b082a3dd1575048c39f0b1f6d7b74a8cf05c36"
                   },
@@ -255,10 +251,6 @@
                   {
                       "path":  "content/mods/dripsounds.json",
                       "sha1":  "74f243cef1b7b32919be044f591e19395d2a5b87"
-                  },
-                  {
-                      "path":  "content/mods/easy-crafttweaker.json",
-                      "sha1":  "55a1df27119fb47fa92a676f0aafaf4594f3f8c0"
                   },
                   {
                       "path":  "content/mods/emoji-type.json",
