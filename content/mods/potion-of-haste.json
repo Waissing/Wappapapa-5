@@ -1,0 +1,24 @@
+{
+  "name": "Potion of Haste",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ShWpAKwu",
+      "pin": "xlRFtMuO",
+      "slug": "potion-of-haste",
+      "versionId": "xlRFtMuO",
+      "versionNumber": "1.0+1.21.1",
+      "filename": "Potion_of_Haste-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ShWpAKwu/versions/xlRFtMuO/Potion_of_Haste-1.0.jar",
+      "sha1": "a6c41ead9329f9fb5cfa4732074d922ec58bd2c8",
+      "sha512": "108a759214399256504cf3372fb86f86445f42d36017a74cf7b4a9b60cbc4af2077ac394725a75ee06b3aca92324a76eac8918b5acb4d2f24c4fb41cea870c0f",
+      "fileSize": 11217
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

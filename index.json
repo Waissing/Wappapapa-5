@@ -425,10 +425,6 @@
       "sha1": "4d9d0e47d1af9d8759ba494988e20327d20ee243"
     },
     {
-      "path": "content/mods/ldm-mo-potions.json",
-      "sha1": "78ad32f9f5d06489bdc01458871958bc53bad04c"
-    },
-    {
       "path": "content/mods/lets-do-furniture-another-furniture-handcrafted-create-sable.json",
       "sha1": "9180d3341a4ca19543eb4ff1ad5f0729629f859f"
     },
@@ -591,6 +587,10 @@
     {
       "path": "content/mods/portfolio.json",
       "sha1": "ea7e2d4901ca71f35efab73b6a25e04270dc34c9"
+    },
+    {
+      "path": "content/mods/potion-of-haste.json",
+      "sha1": "ecbfa360d81d6e2bb2dbdc3b8e0a2ae7b6522d6f"
     },
     {
       "path": "content/mods/presence-footsteps-x-sable.json",
