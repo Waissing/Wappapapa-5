@@ -1,0 +1,16 @@
+{
+  "name": "Mo' Potions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5BkWEzkP",
+      "slug": "ldm-mo-potions"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

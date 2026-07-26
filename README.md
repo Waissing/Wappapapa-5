@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 219 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 220 mods
 
 ## Contents
 
@@ -120,6 +120,7 @@
 - [M.R.U](https://modrinth.com/project/mru) `1.0.30+1.21.1-neoforge`
 - [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [MAtmos - Ambient sound](https://modrinth.com/project/matmos-ambient-sound) `7.4`
+- [Mo' Potions](https://modrinth.com/project/ldm-mo-potions)
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.15+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.0.22`
