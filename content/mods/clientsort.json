@@ -1,0 +1,16 @@
+{
+  "name": "Client Sort",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "K0AkAin6",
+      "slug": "clientsort"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

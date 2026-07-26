@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 212 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 217 mods
 
 ## Contents
 
@@ -23,6 +23,7 @@
 - [Axiom](https://modrinth.com/project/axiom) `5.4.2`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.0`
 - [Balm](https://modrinth.com/project/balm) `21.0.62+neoforge-1.21.1`
+- [Better Block Entities](https://modrinth.com/project/better-block-entities)
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.12`
@@ -34,6 +35,7 @@
 - [Chalk](https://modrinth.com/project/chalk-mod) `1.6.12`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.2`
 - Chimes `Chimes-v2.1.1-1.21.1-NeoForge` (curseforge)
+- [Client Sort](https://modrinth.com/project/clientsort)
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - Clothing of the Lowlands `Clothing_Of_The_Lowlands_1.0.8` (curseforge)
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.39-fabric+forge+neo`
@@ -68,6 +70,7 @@
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
+- [Emoji Type](https://modrinth.com/project/emoji-type)
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
@@ -93,6 +96,7 @@
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
 - [Glow](https://modrinth.com/project/glows) `1.3.0`
 - [GroovyModLoader (GML)](https://modrinth.com/project/gml) `6.0.2`
+- [Highlight](https://modrinth.com/project/highlight)
 - [Horseman](https://modrinth.com/project/horseman) `1.5.11`
 - [Horses Can Swim](https://modrinth.com/project/swimming-horses-forge) `1.1.0`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.11+1.21.1-neoforge`
@@ -149,6 +153,7 @@
 - [Pretty Beaches](https://modrinth.com/project/pretty-beaches) `21.1.3+neoforge-1.21.1`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `v21.1.52-1.21.1-NeoForge`
 - [Ragdoll Reactions](https://modrinth.com/project/ragdoll-reactions) `0.7.0`
+- [Raised](https://modrinth.com/project/raised)
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.2.5-1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `2.2.0-1.21.1-neoforge`

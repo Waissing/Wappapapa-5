@@ -1,0 +1,16 @@
+{
+  "name": "Emoji Type",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "q7vRRpxU",
+      "slug": "emoji-type"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
