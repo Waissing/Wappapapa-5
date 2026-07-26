@@ -3195,6 +3195,22 @@
                   {
                       "path":  "overrides/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip",
                       "sha1":  "06032557b84a41a28e3473f483b34cb6737002b0"
+                  },
+                  {
+                      "path":  "content/mods/kubejs.json",
+                      "sha1":  "6775303402cfcb4ba2c949b795dc61a6f694373d"
+                  },
+                  {
+                      "path":  "content/mods/morejs.json",
+                      "sha1":  "b46e346455bdeab5332c411c5dc62d159f062ecb"
+                  },
+                  {
+                      "path":  "content/mods/rhino.json",
+                      "sha1":  "8ec3f9f7cac15f624f7ffcd3ed928fcc9a9f8b2e"
+                  },
+                  {
+                      "path":  "overrides/kubejs/startup_scripts/wappa_haste_brewing.js",
+                      "sha1":  "9f36ed2669f493151f367e306d3b523dba423915"
                   }
               ]
 }
