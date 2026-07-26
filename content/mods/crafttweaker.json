@@ -1,16 +1,26 @@
 {
-  "name": "CraftTweaker",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "curseforge",
-  "sources": {
-    "curseforge": {
-      "id": "239197",
-      "slug": "crafttweaker"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "CraftTweaker",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "Xg35A4rS",
+                                     "pin":  "BVOSHJwc",
+                                     "slug":  "crafttweaker",
+                                     "versionId":  "BVOSHJwc",
+                                     "versionNumber":  "21.0.38",
+                                     "filename":  "CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/Xg35A4rS/versions/BVOSHJwc/CraftTweaker-neoforge-1.21.1-21.0.38.jar",
+                                     "sha1":  "dba530a29e0dd26333c1a1a82ae33942483306df",
+                                     "sha512":  "2534b0914b3323799410dc246c10376e8172f4f01694094831f9beacd202d4244e6cf788a5dfcad09608977df2afdacd2704bdd96e49eb36c9cc0d75ea42fef1",
+                                     "fileSize":  3465718
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }
