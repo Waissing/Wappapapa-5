@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 218 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 219 mods
 
 ## Contents
 
@@ -47,7 +47,6 @@
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.1`
 - Cosmetic Armor Reworked `cosmeticarmorreworked-1.21.1-v1-neoforge.jar` (curseforge)
-- CraftTweaker (curseforge)
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.0+mc1.21.1`
 - [Create Cobblestone](https://modrinth.com/project/create-cobblestone) `1.4.11+neoforge-1.21.1-140`
@@ -71,7 +70,6 @@
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
-- [Easy CraftTweaker](https://modrinth.com/project/easy-crafttweaker)
 - [Emoji Type](https://modrinth.com/project/emoji-type) `2.3.0-1.21.3-neoforge`
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
@@ -111,6 +109,7 @@
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.37.0.362`
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `1.4.0`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
+- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.368`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.10+1.21.1`
 - [Let Me Despawn](https://modrinth.com/project/lmd) `1.5.0`
 - [Lexiconfig](https://modrinth.com/project/lexiconfig) `1.4.21-novel`
@@ -125,6 +124,7 @@
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.15+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.0.22`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.8`
+- [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.5.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `1.0.2`
@@ -162,6 +162,7 @@
 - [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.5.5-neoforge-1.21.1`
 - [Resourcify](https://modrinth.com/project/resourcify) `1.8.3`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
+- [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Ribbits](https://modrinth.com/project/ribbits) `4.1.6`
 - [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`

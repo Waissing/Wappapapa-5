@@ -1,8 +1,9 @@
 // Wappa 5: custom Haste potion brewing (replaces Unusual End's default recipe)
-MoreJSEvents.registerPotionBrewing((event) => {
+// MoreJS 0.16 / KubeJS 2101.x: binding is 'MoreJS', event lives in server_scripts
+MoreJS.registerPotionBrewing(event => {
     // remove Unusual End's original haste brewing chains
-    event.removeByPotion(null, null, 'unusualend:haste');
-    event.removeByPotion(null, null, 'unusualend:advanced_haste');
+    event.removePotionBrewing({ output: 'unusualend:haste' });
+    event.removePotionBrewing({ output: 'unusualend:advanced_haste' });
     // Awkward + Golden Apple -> Potion of Haste
     event.addPotionBrewing('minecraft:golden_apple', 'minecraft:awkward', 'unusualend:haste');
     // Haste + Glowstone Dust -> Potion of Haste II

@@ -417,6 +417,10 @@
                       "sha1":  "4a32442343916330219c66c560f057d6ac198fef"
                   },
                   {
+                      "path":  "content/mods/kubejs.json",
+                      "sha1":  "14dadbfc3cd82d96e1cb2cd890029f597d0093f6"
+                  },
+                  {
                       "path":  "content/mods/lambdynamiclights.json",
                       "sha1":  "4d9d0e47d1af9d8759ba494988e20327d20ee243"
                   },
@@ -471,6 +475,10 @@
                   {
                       "path":  "content/mods/moreculling.json",
                       "sha1":  "5a62484a69e90b39ed2e668958f0a19f880e159c"
+                  },
+                  {
+                      "path":  "content/mods/morejs.json",
+                      "sha1":  "43f8287a68c676e210498baa0a131221aaee5e72"
                   },
                   {
                       "path":  "content/mods/mossylib.json",
@@ -627,6 +635,10 @@
                   {
                       "path":  "content/mods/respackopts.json",
                       "sha1":  "2cf0f76234146c5382a6f781bb233ab5bcbf58b2"
+                  },
+                  {
+                      "path":  "content/mods/rhino.json",
+                      "sha1":  "7081e573d52637230296daa0eccf1e823a10b07b"
                   },
                   {
                       "path":  "content/mods/ribbits.json",
@@ -3189,20 +3201,8 @@
                       "sha1":  "06032557b84a41a28e3473f483b34cb6737002b0"
                   },
                   {
-                      "path":  "content/mods/kubejs.json",
-                      "sha1":  "6775303402cfcb4ba2c949b795dc61a6f694373d"
-                  },
-                  {
-                      "path":  "content/mods/morejs.json",
-                      "sha1":  "b46e346455bdeab5332c411c5dc62d159f062ecb"
-                  },
-                  {
-                      "path":  "content/mods/rhino.json",
-                      "sha1":  "8ec3f9f7cac15f624f7ffcd3ed928fcc9a9f8b2e"
-                  },
-                  {
-                      "path":  "overrides/kubejs/startup_scripts/wappa_haste_brewing.js",
-                      "sha1":  "9f36ed2669f493151f367e306d3b523dba423915"
+                      "path":  "overrides/kubejs/server_scripts/wappa_haste_brewing.js",
+                      "sha1":  "63f18f5449e9a2d636c4160e092d54ad97fd556f"
                   }
               ]
 }
