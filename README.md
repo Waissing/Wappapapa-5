@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 216 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 218 mods
 
 ## Contents
 
@@ -47,6 +47,7 @@
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.1`
 - Cosmetic Armor Reworked `cosmeticarmorreworked-1.21.1-v1-neoforge.jar` (curseforge)
+- CraftTweaker (curseforge)
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.0+mc1.21.1`
 - [Create Cobblestone](https://modrinth.com/project/create-cobblestone) `1.4.11+neoforge-1.21.1-140`
@@ -70,6 +71,7 @@
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.2.0-b-1.21.1`
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
+- [Easy CraftTweaker](https://modrinth.com/project/easy-crafttweaker)
 - [Emoji Type](https://modrinth.com/project/emoji-type) `2.3.0-1.21.3-neoforge`
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`

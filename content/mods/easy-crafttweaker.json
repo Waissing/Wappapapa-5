@@ -1,0 +1,16 @@
+{
+  "name": "Easy CraftTweaker",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uFnl8Tqw",
+      "slug": "easy-crafttweaker"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
