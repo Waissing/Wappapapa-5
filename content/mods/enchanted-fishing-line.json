@@ -1,16 +1,26 @@
 {
-  "name": "Enchanted Fishing Line",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "FtXZNeim",
-      "slug": "enchanted-fishing-line"
-    }
-  },
-  "dependents": [],
-  "clientSide": "unknown",
-  "serverSide": "unknown"
+    "name":  "Enchanted Fishing Line",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "FtXZNeim",
+                                     "slug":  "enchanted-fishing-line",
+                                     "pin":  "8nAbeyES",
+                                     "versionId":  "8nAbeyES",
+                                     "versionNumber":  "1.0.0",
+                                     "filename":  "enchanted_fishing_line-1.0.0-neoforge-1.21.1.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/FtXZNeim/versions/8nAbeyES/enchanted_fishing_line-1.0.0-neoforge-1.21.1.jar",
+                                     "sha1":  "0cd70ce6f3044c3f9dcc0e1aa8ad873800f12f91",
+                                     "sha512":  "998b75198b47ce5025d732c22140408d8aedab6a71fbfc51ab99f333112d648b06932157da6508721e2083dd07486ff6afe24b64786b44db4bc3212f57eec307",
+                                     "fileSize":  20608
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "unknown",
+    "serverSide":  "unknown"
 }
