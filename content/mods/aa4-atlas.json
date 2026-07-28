@@ -1,0 +1,16 @@
+{
+  "name": "AA4 Atlas",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aR9FhY20",
+      "slug": "aa4-atlas"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

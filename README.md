@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 222 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 223 mods (2 dependencies)
 
 ## Contents
 
@@ -8,6 +8,7 @@
 - [[ESF] Entity Sound Features](https://modrinth.com/project/esf) `0.8.1-neoforge-1.21`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.1-neoforge-1.21`
 - [[Reforged] Accurate Block Placement](https://modrinth.com/project/reforged-accurate-block-placement) `1.0.0`
+- [AA4 Atlas](https://modrinth.com/project/aa4-atlas)
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Acedium Sodiumized](https://modrinth.com/project/acedium-sodiumized) `0.4.1+mc1.21.1`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
@@ -16,6 +17,7 @@
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.6`
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.2`
+- [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4)
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.8+neoforge`
 - [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.1.1`
@@ -25,7 +27,6 @@
 - [Balm](https://modrinth.com/project/balm) `21.0.62+neoforge-1.21.1`
 - [Better Block Entities](https://modrinth.com/project/better-block-entities) `1.3.4-beta.3+mc1.21.1`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
-- [Better Fishing](https://modrinth.com/project/better-fishing-system)
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.12`
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.2.0`
@@ -72,7 +73,6 @@
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
 - [Emoji Type](https://modrinth.com/project/emoji-type) `2.3.0-1.21.3-neoforge`
-- [Enchanted Fishing Line](https://modrinth.com/project/enchanted-fishing-line)
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
@@ -203,6 +203,7 @@
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Swing Through Grass](https://modrinth.com/project/swing-through-grass) `1.0.0`
 - [TCT Core](https://modrinth.com/project/tct-core) `2.1`
+- [Teal Lib](https://modrinth.com/project/teallib) `1.3.teal`
 - [Tectonic](https://modrinth.com/project/tectonic) `3.0.26-neoforge-21.1`
 - [TerraBlender](https://modrinth.com/project/terrablender) `4.1.0.8`
 - [The Block Box](https://modrinth.com/project/the-block-box) `0.1.3`

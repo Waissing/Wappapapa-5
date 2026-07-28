@@ -1,0 +1,19 @@
+{
+  "name": "McQoy",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tNmWwdI2",
+      "slug": "mcqoy"
+    }
+  },
+  "dependents": [
+    "4KjqhPc9",
+    "Y5Ve4Ui4"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Surveyor Map Framework",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4KjqhPc9",
+      "slug": "surveyor"
+    }
+  },
+  "dependents": [
+    "Y5Ve4Ui4",
+    "aR9FhY20"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}
