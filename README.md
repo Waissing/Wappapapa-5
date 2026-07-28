@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 220 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 222 mods (1 dependency)
 
 ## Contents
 
@@ -25,6 +25,7 @@
 - [Balm](https://modrinth.com/project/balm) `21.0.62+neoforge-1.21.1`
 - [Better Block Entities](https://modrinth.com/project/better-block-entities) `1.3.4-beta.3+mc1.21.1`
 - [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.6+1.21.1-neoforge-release`
+- [Better Fishing](https://modrinth.com/project/better-fishing-system)
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.12`
 - [Blocks Abound](https://modrinth.com/project/blocks-abound) `0.2.0`
@@ -71,6 +72,7 @@
 - [Dramatic Doors](https://modrinth.com/project/dramatic-doors) `1.21.1-3.3.2`
 - [Drip Sounds](https://modrinth.com/project/dripsounds) `0.5.2+1.21.8-neoforge`
 - [Emoji Type](https://modrinth.com/project/emoji-type) `2.3.0-1.21.3-neoforge`
+- [Enchanted Fishing Line](https://modrinth.com/project/enchanted-fishing-line)
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Entity Pin Cushions](https://modrinth.com/project/entity-pin-cushions) `1.0`
@@ -127,7 +129,7 @@
 - [MoreJS: KubeJS Addon](https://modrinth.com/project/morejs) `1.21.1-0.16.0+neoforge`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.5.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
-- [Naturalist](https://modrinth.com/project/naturalist) `1.0.2`
+- [Naturalist](https://modrinth.com/project/naturalist) `2.0.2+1.21.1-neoforge`
 - [Nature's Compass](https://modrinth.com/project/natures-compass) `1.21.1-3.4.0-neoforge`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
@@ -192,7 +194,7 @@
 - [Sounds](https://modrinth.com/project/sound) `2.4.22+lts+1.21.1-neoforge`
 - [Sounds Be Gone!](https://modrinth.com/project/soundsbegone) `1.5.2+neoforge-1.21`
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
-- [Spawn](https://modrinth.com/project/spawn-mod) `4.0.4`
+- [Spawn](https://modrinth.com/project/spawn-mod) `4.0.6`
 - Spawn C2ME Fix `spawn_c2me_fix-1.21.1-1.0.0.jar` (curseforge)
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta+neoforge-mc1.21.1`
 - [Strut Your Stuff](https://modrinth.com/project/strut-your-stuff) `1.2.5`

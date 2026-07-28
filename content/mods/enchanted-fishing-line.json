@@ -1,0 +1,16 @@
+{
+  "name": "Enchanted Fishing Line",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FtXZNeim",
+      "slug": "enchanted-fishing-line"
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

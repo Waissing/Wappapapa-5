@@ -19,8 +19,7 @@
     }
   },
   "dependents": [
-    "8YcE8y4T",
-    "F8BQNPWX"
+    "8YcE8y4T"
   ],
   "clientSide": "required",
   "serverSide": "optional"

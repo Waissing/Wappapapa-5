@@ -1,0 +1,18 @@
+{
+  "name": "Teal Lib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rLJ1qF79",
+      "slug": "teallib"
+    }
+  },
+  "dependents": [
+    "rex9wwpz"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
