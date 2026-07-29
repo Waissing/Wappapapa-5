@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 223 mods (2 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 227 mods (1 dependency)
 
 ## Contents
 
@@ -8,7 +8,7 @@
 - [[ESF] Entity Sound Features](https://modrinth.com/project/esf) `0.8.1-neoforge-1.21`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.1-neoforge-1.21`
 - [[Reforged] Accurate Block Placement](https://modrinth.com/project/reforged-accurate-block-placement) `1.0.0`
-- [AA4 Atlas](https://modrinth.com/project/aa4-atlas)
+- [AA4 Atlas](https://modrinth.com/project/aa4-atlas) `1.1.2`
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Acedium Sodiumized](https://modrinth.com/project/acedium-sodiumized) `0.4.1+mc1.21.1`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
@@ -17,7 +17,7 @@
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.6`
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.2`
-- [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4)
+- [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.8+neoforge`
 - [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.1.1`
@@ -87,6 +87,7 @@
 - [Fairy Lights](https://modrinth.com/project/fairylights) `1.2.6`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
+- [Faster Ladder Climbing](https://modrinth.com/project/faster-ladder-climbing)
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
@@ -122,6 +123,7 @@
 - [M.R.U](https://modrinth.com/project/mru) `1.0.30+1.21.1-neoforge`
 - [Mannequins](https://modrinth.com/project/mannequins) `3.0.0-rc.1`
 - [MAtmos - Ambient sound](https://modrinth.com/project/matmos-ambient-sound) `7.4`
+- [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Model Gap Fix](https://modrinth.com/project/modelfix) `1.21-1.10`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.15+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.0.22`
@@ -163,6 +165,7 @@
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `2.2.0-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.9.4-1.21.1-neoforge`
 - [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.5.5-neoforge-1.21.1`
+- [Reroll - Enchants and Trades](https://modrinth.com/project/reroll-enchants-and-trades)
 - [Resourcify](https://modrinth.com/project/resourcify) `1.8.3`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
@@ -201,6 +204,7 @@
 - [Subtle Name Tags](https://modrinth.com/project/subtle-name-tags) `0.3`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.7.7`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
+- [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Swing Through Grass](https://modrinth.com/project/swing-through-grass) `1.0.0`
 - [TCT Core](https://modrinth.com/project/tct-core) `2.1`
 - [Teal Lib](https://modrinth.com/project/teallib) `1.3.teal`

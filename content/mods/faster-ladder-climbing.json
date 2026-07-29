@@ -1,0 +1,16 @@
+{
+  "name": "Faster Ladder Climbing",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ylYAPOKe",
+      "slug": "faster-ladder-climbing"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

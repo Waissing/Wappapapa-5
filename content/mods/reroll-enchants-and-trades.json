@@ -1,0 +1,16 @@
+{
+  "name": "Reroll - Enchants and Trades",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aobNKmxE",
+      "slug": "reroll-enchants-and-trades"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
