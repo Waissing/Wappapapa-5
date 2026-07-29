@@ -1,16 +1,26 @@
 {
-  "name": "Reroll - Enchants and Trades",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "aobNKmxE",
-      "slug": "reroll-enchants-and-trades"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "Reroll - Enchants and Trades",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "aobNKmxE",
+                                     "slug":  "reroll-enchants-and-trades",
+                                     "pin":  "jtL07ojq",
+                                     "versionId":  "jtL07ojq",
+                                     "versionNumber":  "1.1.0",
+                                     "filename":  "reroll_enchants_trades-neoforge-1.21.1-1.1.0.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/aobNKmxE/versions/jtL07ojq/reroll_enchants_trades-neoforge-1.21.1-1.1.0.jar",
+                                     "sha1":  "f3543a1c87b96d2a4eab47d0ec551204c65268e0",
+                                     "sha512":  "bf360751a61eb4aa35694b13415c87dede6e46a9911d1b50a4874d0408479e0b43f37950fe2c6e71dc01871d2a0e5f82e963940a608d6f261ee6bd8d1a628043",
+                                     "fileSize":  39584
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }

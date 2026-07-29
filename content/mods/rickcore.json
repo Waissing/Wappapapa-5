@@ -1,18 +1,26 @@
 {
-  "name": "RickCore",
-  "side": "auto",
-  "explicit": false,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "LPM7bcAN",
-      "slug": "rickcore"
-    }
-  },
-  "dependents": [
-    "aobNKmxE"
-  ],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "RickCore",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "LPM7bcAN",
+                                     "slug":  "rickcore",
+                                     "pin":  "6vLKE0uH",
+                                     "versionId":  "6vLKE0uH",
+                                     "versionNumber":  "1.1.0",
+                                     "filename":  "rickcore-neoforge-1.21.1-1.1.0.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/LPM7bcAN/versions/6vLKE0uH/rickcore-neoforge-1.21.1-1.1.0.jar",
+                                     "sha1":  "217211ccbcaa29adc614153054a03c4b8ba432c1",
+                                     "sha512":  "7c13c1383f885c7c840abd8e9a2311962c741cc3ce84a6108ba52561460d312c455d67cb008b142b64d77429595a526320a5d5f8b6afd73411bacc14ee0351fc",
+                                     "fileSize":  6949
+                                 }
+                },
+    "dependents":  [
+                       "aobNKmxE"
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }

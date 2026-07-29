@@ -1,16 +1,26 @@
 {
-  "name": "Faster Ladder Climbing",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "ylYAPOKe",
-      "slug": "faster-ladder-climbing"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "unsupported"
+    "name":  "Faster Ladder Climbing",
+    "side":  "client",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "ylYAPOKe",
+                                     "slug":  "faster-ladder-climbing",
+                                     "pin":  "zid0KBLi",
+                                     "versionId":  "zid0KBLi",
+                                     "versionNumber":  "0.2.14",
+                                     "filename":  "fasterladderclimbing-0.2.14.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/ylYAPOKe/versions/zid0KBLi/fasterladderclimbing-0.2.14.jar",
+                                     "sha1":  "11c268baadfc3daf31ac91135b4f34cf25217a42",
+                                     "sha512":  "615e9f7a275b25daaa070bc784f035df5a80a6cc0c7d46b58e465ce72e0324d7d7bcb712596a20e530ecd2d2875cbf224290021b814a823517976a7572a57e65",
+                                     "fileSize":  18756
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "unsupported"
 }
