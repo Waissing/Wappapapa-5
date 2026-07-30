@@ -1,0 +1,16 @@
+{
+  "name": "Create: Vibrant Vaults",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hddN8ksR",
+      "slug": "create-vibrant-vaults"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

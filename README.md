@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 227 mods (1 dependency)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 229 mods
 
 ## Contents
 
@@ -64,6 +64,7 @@
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Oxidized](https://modrinth.com/project/create_oxidized) `0.1.3`
 - [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
+- [Create: Vibrant Vaults](https://modrinth.com/project/create-vibrant-vaults)
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.1.3`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `3.0.0+1.21`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
@@ -87,7 +88,7 @@
 - [Fairy Lights](https://modrinth.com/project/fairylights) `1.2.6`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
-- [Faster Ladder Climbing](https://modrinth.com/project/faster-ladder-climbing)
+- [Faster Ladder Climbing](https://modrinth.com/project/faster-ladder-climbing) `0.2.14`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
@@ -165,11 +166,12 @@
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `2.2.0-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `2.9.4-1.21.1-neoforge`
 - [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.5.5-neoforge-1.21.1`
-- [Reroll - Enchants and Trades](https://modrinth.com/project/reroll-enchants-and-trades)
+- [Reroll - Enchants and Trades](https://modrinth.com/project/reroll-enchants-and-trades) `1.1.0`
 - [Resourcify](https://modrinth.com/project/resourcify) `1.8.3`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Ribbits](https://modrinth.com/project/ribbits) `4.1.6`
+- [RickCore](https://modrinth.com/project/rickcore) `1.1.0`
 - [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
 - [Sable](https://modrinth.com/project/sable) `2.0.3+mc1.21.1`
