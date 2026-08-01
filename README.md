@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 229 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 228 mods
 
 ## Contents
 
@@ -85,7 +85,6 @@
 - [Exposure](https://modrinth.com/project/exposure) `1.9.18`
 - [Exposure Catalog](https://modrinth.com/project/exposure-catalog) `1.1.1`
 - [Exposure: Polaroid](https://modrinth.com/project/exposure-polaroid) `1.1.5`
-- [Fairy Lights](https://modrinth.com/project/fairylights) `1.2.6`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
 - [Faster Ladder Climbing](https://modrinth.com/project/faster-ladder-climbing) `0.2.14`
