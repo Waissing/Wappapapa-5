@@ -3239,6 +3239,10 @@
                   {
                       "path":  "overrides/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip",
                       "sha1":  "06032557b84a41a28e3473f483b34cb6737002b0"
+                  },
+                  {
+                      "path":  "overrides/mods/flywheel-neoforge-1.21.1-1.0.6.jar",
+                      "sha1":  "a943872ad0bdd4458d818d8d7dc123fb250eb744"
                   }
               ]
 }
