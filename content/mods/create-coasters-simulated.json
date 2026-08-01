@@ -1,13 +1,21 @@
 {
   "name": "Create: Coasters Simulated",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
       "id": "W1ZUfWdr",
-      "slug": "create-coasters-simulated"
+      "pin": "IXr3Jch9",
+      "slug": "create-coasters-simulated",
+      "versionId": "IXr3Jch9",
+      "versionNumber": "0.1",
+      "filename": "simulatedcoasters-0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W1ZUfWdr/versions/IXr3Jch9/simulatedcoasters-0.1.jar",
+      "sha1": "eb9d19030bbd63f6f5ffba2adf918bb2420f4545",
+      "sha512": "3b56603952993bdcfa5f06750839472daddd857ca002529d6645306e4df1d74945777bc96a1ffb8993b99458e79a20d41550b6ff71bd28f2eefb7242ddee37e9",
+      "fileSize": 1812426
     }
   },
   "dependents": [],

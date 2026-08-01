@@ -1,0 +1,16 @@
+{
+  "name": "Shutter Up!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xaH4PQRj",
+      "slug": "shutter-up"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
