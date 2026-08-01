@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 230 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 231 mods
 
 ## Contents
 
@@ -63,6 +63,7 @@
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Extra Gauges](https://modrinth.com/project/extra-gauges) `2.1.2`
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
+- [Create: Hypertubes](https://modrinth.com/project/hypertube)
 - [Create: Oxidized](https://modrinth.com/project/create_oxidized) `0.1.3`
 - [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
 - [Create: Vibrant Vaults](https://modrinth.com/project/create-vibrant-vaults) `0.3.2`
@@ -185,7 +186,7 @@
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.1`
 - [Shoulder Surfing Reloaded](https://modrinth.com/project/shoulder-surfing-reloaded) `1.21.1-5.0.5+neoforge`
-- [Shutter Up!](https://modrinth.com/project/shutter-up)
+- [Shutter Up!](https://modrinth.com/project/shutter-up) `1.1.1`
 - [Simple Music Control](https://modrinth.com/project/simple-music-control) `1.3.7+1.21.1`
 - [Simple Radio](https://modrinth.com/project/simple-radio) `1.21.1-4.5.7.9`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.20`
