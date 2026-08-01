@@ -1,0 +1,16 @@
+{
+  "name": "Better Block Entities",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ONZm0H7Y",
+      "slug": "better-block-entities"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
