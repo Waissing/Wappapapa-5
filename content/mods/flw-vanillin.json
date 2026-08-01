@@ -1,0 +1,16 @@
+{
+  "name": "Vanillin",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6qTrsXCy",
+      "slug": "flw-vanillin"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

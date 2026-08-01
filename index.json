@@ -69,10 +69,6 @@
       "sha1": "f3cbedff78e5c223a5c69c1de44bce0668d914b4"
     },
     {
-      "path": "content/mods/better-block-entities.json",
-      "sha1": "2893d85bec554a8a9f4b75c43d4512b7a5669138"
-    },
-    {
       "path": "content/mods/better-clouds.json",
       "sha1": "06f29faa22687bfb374cd2e98d108fd4093e1b41"
     },
@@ -347,6 +343,10 @@
     {
       "path": "content/mods/figura.json",
       "sha1": "6b26605ee8d31e98634a07d67ca5635808c021d4"
+    },
+    {
+      "path": "content/mods/flw-vanillin.json",
+      "sha1": "5745070cc734554fa25e367256854a60006dbb6b"
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
@@ -742,7 +742,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "a9717338fb0cba66ddbdba2a1726e535ce0c063f"
+      "sha1": "9014eaef5d181415b061186b1687b93018943b2e"
     },
     {
       "path": "content/mods/sooty-chimneys.json",
