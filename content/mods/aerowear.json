@@ -1,0 +1,16 @@
+{
+  "name": "AeroWear",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dCCUTVG5",
+      "slug": "aerowear"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
