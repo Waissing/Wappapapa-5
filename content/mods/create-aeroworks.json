@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "P26k79kP",
-      "pin": "EYVmBa7H",
+      "pin": "H2PGtFQ5",
       "slug": "create-aeroworks",
-      "versionId": "EYVmBa7H",
-      "versionNumber": "1.3.0+mc1.21.1",
-      "filename": "aeroworks-1.3.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/P26k79kP/versions/EYVmBa7H/aeroworks-1.3.0.jar",
-      "sha1": "e068f42a76e1f95b1c4521bff9d7a8bdc156c75e",
-      "sha512": "6ee9c68d97a0a39d766f0662d196ed5eb13fe8dee104af31a8c087f5f8f35d6f642312514f8108d0c87e60a154c69234c08ecb496f5727db62c641c234a19da0",
-      "fileSize": 675196
+      "versionId": "H2PGtFQ5",
+      "versionNumber": "1.4.1+mc1.21.1",
+      "filename": "aeroworks-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/P26k79kP/versions/H2PGtFQ5/aeroworks-1.4.1.jar",
+      "sha1": "545aadbaf3aaa7d8fb0e63b7a03c3f4a0da22d77",
+      "sha512": "02453328c7fa1e3d0aac5bea50369377ef2ea02b14e87ae95c78c95a47c31289e36590747f43c0281137c56858069f16059dc572ce3a2c16430645bda3e02e9f",
+      "fileSize": 634089
     }
   },
   "dependents": [],

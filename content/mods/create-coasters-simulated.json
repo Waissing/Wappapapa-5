@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "W1ZUfWdr",
-      "pin": "IXr3Jch9",
+      "pin": "WtNrH6lS",
       "slug": "create-coasters-simulated",
-      "versionId": "IXr3Jch9",
-      "versionNumber": "0.1",
-      "filename": "simulatedcoasters-0.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/W1ZUfWdr/versions/IXr3Jch9/simulatedcoasters-0.1.jar",
-      "sha1": "eb9d19030bbd63f6f5ffba2adf918bb2420f4545",
-      "sha512": "3b56603952993bdcfa5f06750839472daddd857ca002529d6645306e4df1d74945777bc96a1ffb8993b99458e79a20d41550b6ff71bd28f2eefb7242ddee37e9",
-      "fileSize": 1812426
+      "versionId": "WtNrH6lS",
+      "versionNumber": "0.1.2",
+      "filename": "simulatedcoasters-0.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W1ZUfWdr/versions/WtNrH6lS/simulatedcoasters-0.1.2.jar",
+      "sha1": "89e2cfa4c3ab4bdf3453aa4a533d4822bbc28784",
+      "sha512": "2dc030f6b88089e886d9c28ad02839bb823571ef3c9c5dcccfa48e4e1361ebd675d5c7321f912e905cb41f2a7a387bec66fc827fc625596470083ecbc82194b5",
+      "fileSize": 1872175
     }
   },
   "dependents": [],

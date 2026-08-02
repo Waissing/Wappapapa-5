@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "twkfQtEc",
-      "pin": "JtfVx8PK",
+      "pin": "CitoQHqE",
       "slug": "moonlight",
-      "versionId": "JtfVx8PK",
-      "versionNumber": "1.21.1-3.0.22",
-      "filename": "moonlight-neoforge-1.21.1-3.0.22.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/JtfVx8PK/moonlight-neoforge-1.21.1-3.0.22.jar",
-      "sha1": "98f1a1ca3e51d73cae5187a21dec4d0e153c4f01",
-      "sha512": "36671946bd0f4ec14996603ef03249c48ca205e9c5e666168264056e5a4f3ddd5ccf605325bfec4a94540def906fc58892d87954a501f4fd0914f3de3520d972",
-      "fileSize": 1609513
+      "versionId": "CitoQHqE",
+      "versionNumber": "1.21.1-3.3.0",
+      "filename": "moonlight-neoforge-1.21.1-3.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/twkfQtEc/versions/CitoQHqE/moonlight-neoforge-1.21.1-3.3.0.jar",
+      "sha1": "2752b6ab1ded59ab91942e380f0f1853e57dc1ca",
+      "sha512": "a48a80b9304f9a1d7998fac7b9f06c0fae66984b8073482cd731982f89d59bb66c9f4da9bd37cb33165a2ff15a90141892d4d43973959ed9f19e274538933825",
+      "fileSize": 2135671
     }
   },
   "dependents": [

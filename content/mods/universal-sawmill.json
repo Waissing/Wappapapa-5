@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "WRaRZdTd",
-      "pin": "zLlsG94W",
+      "pin": "RIxcwgDb",
       "slug": "universal-sawmill",
-      "versionId": "zLlsG94W",
-      "versionNumber": "1.21-1.7.7",
-      "filename": "sawmill-neoforge-1.21-1.7.7.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/WRaRZdTd/versions/zLlsG94W/sawmill-neoforge-1.21-1.7.7.jar",
-      "sha1": "3e6c78fb964fd6d0f3ddb67f4ca479c659fa346c",
-      "sha512": "fea3a0fc3bb850733cd0a08db48af4c5114bfa2839c90970fa56c6e1c67f1aa91cba6f64f7dea2be36f285ea10bb6c5bbf25f5e9db2081f3b5862174de2e0c20",
-      "fileSize": 450030
+      "versionId": "RIxcwgDb",
+      "versionNumber": "1.21-1.8.0",
+      "filename": "sawmill-1.21-1.8.0-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WRaRZdTd/versions/RIxcwgDb/sawmill-1.21-1.8.0-neoforge.jar",
+      "sha1": "5301e4a145d5c57b833a0db237c773a36d1ee8a4",
+      "sha512": "b4e503f1a914628156183c6331626f5f896f042ff41b4c7f4c6d723cb3c7b844a9062c147002d0fedae579c77935dfecc2e364ebdb9688d1df344fa555491c4c",
+      "fileSize": 450858
     }
   },
   "dependents": [],

@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "kepjj2sy",
-      "pin": "9M3XJ4pj",
+      "pin": "aMXy4qc2",
       "slug": "shoulder-surfing-reloaded",
-      "versionId": "9M3XJ4pj",
-      "versionNumber": "1.21.1-5.0.5+neoforge",
-      "filename": "ShoulderSurfing-NeoForge-1.21.1-5.0.5.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/9M3XJ4pj/ShoulderSurfing-NeoForge-1.21.1-5.0.5.jar",
-      "sha1": "5a859da2d69b5ca69ff6b8aae2e6d940a2565a3a",
-      "sha512": "c9cfff063b542da9ff035a35bd6ad3949a8a8bdce749bebb37d6f02a2c54bdb4337f19b99238ccbad78f1034f9cf8d951ce253061df2a9b2b80f67938fb32921",
-      "fileSize": 399989
+      "versionId": "aMXy4qc2",
+      "versionNumber": "1.21.1-5.0.9+neoforge",
+      "filename": "ShoulderSurfing-NeoForge-1.21.1-5.0.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kepjj2sy/versions/aMXy4qc2/ShoulderSurfing-NeoForge-1.21.1-5.0.9.jar",
+      "sha1": "c8e343d1f7368b4645c911d21866a55b5491991f",
+      "sha512": "a56338bb5080b22f2c50aa5494c8c526c8094907f032676e2f531d697eb3becbf862dd36f67d855de658f7f62de13ee596509938a41d5b1b573d6a9a7d6bda84",
+      "fileSize": 399793
     }
   },
   "dependents": [],

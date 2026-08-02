@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "nmDcB62a",
-      "pin": "ZkPOaQLQ",
+      "pin": "VsJnrw8k",
       "slug": "modernfix",
-      "versionId": "ZkPOaQLQ",
-      "versionNumber": "5.27.15+mc1.21.1",
-      "filename": "modernfix-neoforge-5.27.15+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZkPOaQLQ/modernfix-neoforge-5.27.15%2Bmc1.21.1.jar",
-      "sha1": "d73f31081c2dc3e2e55c8f6f969466cb4639b132",
-      "sha512": "3fa670a90b59c35fdbd1b06f74783e6bb60aff29ebf222c06cd5355b31fac66a6192ec10a2004030306c1f33f7715ff126fe78874e016cb22d226481ab456870",
-      "fileSize": 597318
+      "versionId": "VsJnrw8k",
+      "versionNumber": "5.27.20+mc1.21.1",
+      "filename": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar",
+      "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575",
+      "sha512": "b1f0d3ac5ada811b8204bc82adc1cab8ff71752da8e97ae381f21be5f778c199ae59108850febc87d1c46757b27ccbb2669f3fc6340c837db450a205ca2d8c9c",
+      "fileSize": 599474
     }
   },
   "dependents": [],

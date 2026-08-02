@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "zO7tsTJN",
-      "pin": "jiao2sMM",
+      "pin": "ikyRZX7e",
       "slug": "yyzs-backpack",
-      "versionId": "jiao2sMM",
-      "versionNumber": "21.1.13",
-      "filename": "yyzsbackpack-neoforge-21.1.13.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/zO7tsTJN/versions/jiao2sMM/yyzsbackpack-neoforge-21.1.13.jar",
-      "sha1": "8dec755f5aea4c4365a55c0dccb0f37d09b49e00",
-      "sha512": "2baff41e443c2d1ee40f82423befb19786a65d06257d2a402a21a444d97260162d883f01d3c9d545095cf0fef022a1e02502712de70553004ab7acb3971c8581",
-      "fileSize": 209479
+      "versionId": "ikyRZX7e",
+      "versionNumber": "0.0.3-reborn+1.21.1",
+      "filename": "yyzsbackpack-0.0.3-reborn+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zO7tsTJN/versions/ikyRZX7e/yyzsbackpack-0.0.3-reborn%2B1.21.1.jar",
+      "sha1": "1a835f8fa374678d1682c6f3aba203de6c366e18",
+      "sha512": "f8803cd83f665e606f6efa17a15941c64729bc704defb8861ca1e3aeef773ab72fc1fa305fb63d5afd2ad763e5de8dd7627aabf4dcdfb81ef42377ce07fc03fd",
+      "fileSize": 284057
     }
   },
   "dependents": [],

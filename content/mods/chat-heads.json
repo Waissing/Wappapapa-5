@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "Wb5oqrBJ",
-      "pin": "tTKkTWZ7",
+      "pin": "BBw4KFaY",
       "slug": "chat-heads",
-      "versionId": "tTKkTWZ7",
-      "versionNumber": "0.15.2",
-      "filename": "chat_heads-0.15.2-neoforge-1.21.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/tTKkTWZ7/chat_heads-0.15.2-neoforge-1.21.jar",
-      "sha1": "86abc08fbfa8eb3e2a41aa4403a6bd52543ea665",
-      "sha512": "28b66b6027f9c2077d024a5650667798b281fee5bc0e3d4ce16c05e7b2f37483c046e0bdc673a8a1bf48015083242c017b24d29f6d5a05d5a6d10dc3c5db4bed",
-      "fileSize": 89325
+      "versionId": "BBw4KFaY",
+      "versionNumber": "0.15.3",
+      "filename": "chat_heads-0.15.3-neoforge-1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/BBw4KFaY/chat_heads-0.15.3-neoforge-1.21.jar",
+      "sha1": "de821ac64b3c8694b1a27e0acd05742660c6af3f",
+      "sha512": "b05c8edeb6cda61e9aef7a7ae29574bdb487e1589e7b58ac7ac69b2c2c34e021e03c8cb26a43f6af7c2c99efa23586976e11fa9416654de8fab5ecb9a5565f3f",
+      "fileSize": 89367
     }
   },
   "dependents": [],

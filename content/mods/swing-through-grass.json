@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "2UJdja33",
-      "pin": "pVB6oiZ7",
+      "pin": "q5C0EErE",
       "slug": "swing-through-grass",
-      "versionId": "pVB6oiZ7",
-      "versionNumber": "1.0.0",
-      "filename": "swingthroughgrass-neoforge-1.0.0-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/2UJdja33/versions/pVB6oiZ7/swingthroughgrass-neoforge-1.0.0-1.21.1.jar",
-      "sha1": "99ce70dd8028873d0da9b77905a7e4313e4bc722",
-      "sha512": "b4cbb3c69c6c7fc52a89ef97595553092ff8806a48301dacf4186444103c1a27e7f762de1d75fcd2a54e61fdaeef7c295212a3f477957f1abf0f3e21e5822c15",
-      "fileSize": 6098
+      "versionId": "q5C0EErE",
+      "versionNumber": "1.0.1",
+      "filename": "swingthroughgrass-neoforge-1.0.1-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2UJdja33/versions/q5C0EErE/swingthroughgrass-neoforge-1.0.1-1.21.1.jar",
+      "sha1": "8557d342d33ca9c8bffbdbae8a28963a154718d5",
+      "sha512": "ea747c31719c0cad7403d26c28355066b26b8677c730f4a7706822e889146308e813ae7762d4ad0c5b9d6dd8644761b740d6a3c9507cea64931d442e2d662a16",
+      "fileSize": 129612
     }
   },
   "dependents": [],

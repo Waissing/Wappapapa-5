@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "k9OKXOrZ",
-      "pin": "T1W4Sn7u",
+      "pin": "vb41f0Ua",
       "slug": "tolerable-creepers",
-      "versionId": "T1W4Sn7u",
-      "versionNumber": "2.2.3-1.21.1-neoforge",
-      "filename": "tolerable_creepers-neoforge-1.21.1-2.2.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/k9OKXOrZ/versions/T1W4Sn7u/tolerable_creepers-neoforge-1.21.1-2.2.3.jar",
-      "sha1": "817b636a6a02fb09279ea60c28408e95214774c4",
-      "sha512": "5ff1df4bdb631ed39648ef93d4667960240b61a2a7d7e2ece35d7a7d8b9fb2b6ac52c149620ba4841bb313ba47a33999bf74d5c26591771d865f6516c8183732",
-      "fileSize": 188319
+      "versionId": "vb41f0Ua",
+      "versionNumber": "2.2.4-1.21.1-neoforge",
+      "filename": "tolerable_creepers-neoforge-1.21.1-2.2.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/k9OKXOrZ/versions/vb41f0Ua/tolerable_creepers-neoforge-1.21.1-2.2.4.jar",
+      "sha1": "407a4acd9f67980d1f5b9db0c5312515cccf0bd7",
+      "sha512": "9cab1f2fb258662a1e39935fa9f7cb9a6dc73092410e4ad156a2e12881f546b259836e08501f6fcc3b80f999897246e1d3dac3c4b7089c3eaa2e1ecfc6dac310",
+      "fileSize": 186646
     }
   },
   "dependents": [],

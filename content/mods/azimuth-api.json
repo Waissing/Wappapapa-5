@@ -7,15 +7,15 @@
   "sources": {
     "modrinth": {
       "id": "RpH8tmT1",
-      "pin": "AN8clG2E",
+      "pin": "T4qf29AQ",
       "slug": "azimuth-api",
-      "versionId": "AN8clG2E",
-      "versionNumber": "1.4.0",
-      "filename": "azimuth-1.4.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/RpH8tmT1/versions/AN8clG2E/azimuth-1.4.0.jar",
-      "sha1": "3e45b5b4389247cffb61179ba33c2b9c45ad50a6",
-      "sha512": "023a43c8c7875e1d46928a7a1d484f327bb20af03933d52347b6340cd67ef55e9757beb6942d9a08157fcc8555145bc0e9519768d78073dc06c4ae5d7d368688",
-      "fileSize": 141740
+      "versionId": "T4qf29AQ",
+      "versionNumber": "1.4.3",
+      "filename": "azimuth-1.4.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RpH8tmT1/versions/T4qf29AQ/azimuth-1.4.3.jar",
+      "sha1": "8d69e1505346d6f7108db2f9d191e6fdea516e96",
+      "sha512": "d273cbeed71a1ef4a1fc1bb1327644273dde989721a45e11fff4497dcbdd0812f2ef9555a6fbaf480e4f16462eafe7dc73308c18ed7742176330ec0e85ae8285",
+      "fileSize": 143479
     }
   },
   "dependents": [
