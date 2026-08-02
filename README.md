@@ -12,7 +12,7 @@
 - [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
 - [Acedium Sodiumized](https://modrinth.com/project/acedium-sodiumized) `0.4.1+mc1.21.1`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
-- [AeroWear](https://modrinth.com/project/aerowear)
+- [AeroWear](https://modrinth.com/project/aerowear) `1.0.0`
 - [Almanac](https://modrinth.com/project/almanac) `1.5.2`
 - [Alternate Current](https://modrinth.com/project/alternate-current) `neoforge-mc1.21-1.9.0`
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`

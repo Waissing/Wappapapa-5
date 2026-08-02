@@ -18,7 +18,7 @@
                   },
                   {
                       "path":  "content/mods/aerowear.json",
-                      "sha1":  "cc6dc0e22ed06b64633343e09665b7b1115abb16"
+                      "sha1":  "3ff1b001ed3c130c8eb3cc63904494e9ef674f27"
                   },
                   {
                       "path":  "content/mods/almanac.json",
@@ -3113,10 +3113,6 @@
                       "sha1":  "df6a1a1d47c09575b69ce1e42d2ed2475776bca6"
                   },
                   {
-                      "path":  "overrides/mods/grassiergrass-neoforge-1.4.5-patched.2+mc1.21.1.jar",
-                      "sha1":  "32d9e43cd6232f4f2a77382b442fe767f03d6e5c"
-                  },
-                  {
                       "path":  "overrides/mods/spawn_dh_fix-1.0.0.jar",
                       "sha1":  "ee2b59a9f91485fae308dc667fe0cbff0c545217"
                   },
@@ -3255,6 +3251,10 @@
                   {
                       "path":  "overrides/resourcepacks/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip",
                       "sha1":  "06032557b84a41a28e3473f483b34cb6737002b0"
+                  },
+                  {
+                      "path":  "overrides/mods/grassiergrass-neoforge-1.4.5-patched.3+mc1.21.1.jar",
+                      "sha1":  "5e648d79e48312e98d324426859e35a3d22fa785"
                   }
               ]
 }
