@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 243 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 243 mods (2 dependencies)
 
 ## Contents
 
@@ -233,9 +233,9 @@
 - [Vanity: Deep Forged](https://modrinth.com/project/vanity-deep-forged) `1.3`
 - [Vanity: Ornate Weaponry](https://modrinth.com/project/vanity-ornate-weaponry) `3.0.0`
 - [Vanity: Statue Decoration](https://modrinth.com/project/vanity-statue-decoration) `1.0`
-- [vista](https://modrinth.com/project/vista_tv)
-- [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes)
-- [Vista Aeronautics Fix](https://modrinth.com/project/vista-aeronautics-fix)
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.2.5`
+- [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
+- Vista Aeronautics Fix `VistaAeronauricsFix-1.0.1` (curseforge)
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.3.6`
 - [Windy](https://modrinth.com/project/windy) `1.1.1+1.21-neoforge`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`

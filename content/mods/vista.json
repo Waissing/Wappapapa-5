@@ -1,0 +1,18 @@
+{
+  "name": "Vista",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1368607",
+      "slug": "vista"
+    }
+  },
+  "dependents": [
+    "1521989"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

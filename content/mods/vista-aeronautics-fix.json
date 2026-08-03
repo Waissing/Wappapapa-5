@@ -1,26 +1,23 @@
 {
-    "name":  "Vista Aeronautics Fix",
-    "side":  "both",
-    "explicit":  true,
-    "disabled":  false,
-    "preferred":  "modrinth",
-    "sources":  {
-                    "modrinth":  {
-                                     "id":  "ayWsj31j",
-                                     "slug":  "vista-aeronautics-fix",
-                                     "pin":  "q4MJ1X5o",
-                                     "versionId":  "q4MJ1X5o",
-                                     "versionNumber":  "1.0.0",
-                                     "filename":  "VistaAeronauticsFix-1.0.0.jar",
-                                     "downloadUrl":  "https://cdn.modrinth.com/data/ayWsj31j/versions/q4MJ1X5o/VistaAeronauticsFix-1.0.0.jar",
-                                     "sha1":  "a00cfcd468377fa210e917b4ff7c6c662e97320e",
-                                     "sha512":  "61604de7d7976335b6a6dda63be04218883811562fd1e70ef030bff7be7a621c69f7a20e50087d995194478983c0ecd79791bbea2812192615e22a171b0720ac",
-                                     "fileSize":  155054
-                                 }
-                },
-    "dependents":  [
-
-                   ],
-    "clientSide":  "required",
-    "serverSide":  "unsupported"
+  "name": "Vista Aeronautics Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1521989",
+      "pin": "7979036",
+      "slug": "vista-aeronautics-fix",
+      "versionId": "7979036",
+      "versionNumber": "VistaAeronauricsFix-1.0.1",
+      "filename": "VistaAeronauricsFix-1.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7979/36/VistaAeronauricsFix-1.0.1.jar",
+      "sha1": "0596cfcd4703ef02c3044262caf2b4ee546c2ebb",
+      "fileSize": 6074
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
 }
