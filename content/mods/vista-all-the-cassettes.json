@@ -1,0 +1,16 @@
+{
+  "name": "Vista - All The Cassettes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LmEe7LrV",
+      "slug": "vista-all-the-cassettes"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

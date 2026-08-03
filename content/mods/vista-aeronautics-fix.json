@@ -1,0 +1,16 @@
+{
+  "name": "Vista Aeronautics Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ayWsj31j",
+      "slug": "vista-aeronautics-fix"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 240 mods
+**Minecraft 1.21.1 · neoforge 21.1.235**, 243 mods
 
 ## Contents
 
@@ -205,7 +205,7 @@
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.7`
 - Spawn C2ME Fix `spawn_c2me_fix-1.21.1-1.0.0.jar` (curseforge)
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.3.0-beta.2+neoforge-mc1.21.1`
-- [Stohun's Vanity Collection](https://modrinth.com/project/stohuns-vanity-collection)
+- [Stohun's Vanity Collection](https://modrinth.com/project/stohuns-vanity-collection) `1.0.0`
 - [Strut Your Stuff](https://modrinth.com/project/strut-your-stuff) `1.3.0`
 - [Subtle Name Tags](https://modrinth.com/project/subtle-name-tags) `0.3`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.8.5`
@@ -226,13 +226,16 @@
 - [Undertale Death Screen](https://modrinth.com/project/undertale-death-screen) `1.3.3+1.20.6`
 - [Unusual End](https://modrinth.com/project/unusual_end) `2.3-neo-1.21.1`
 - [Vanishmod](https://modrinth.com/project/vanishmod) `1.1.21`
-- [Vanity: Aesthetic Armory](https://modrinth.com/project/vanity-aesthetic-armory)
-- [Vanity: Ancient Tool Variants](https://modrinth.com/project/vanity-ancient-tool-variants)
-- [Vanity: Colossal Weapons](https://modrinth.com/project/vanity-colossal-weapons)
-- [Vanity: Core](https://modrinth.com/project/vanity-core)
-- [Vanity: Deep Forged](https://modrinth.com/project/vanity-deep-forged)
-- [Vanity: Ornate Weaponry](https://modrinth.com/project/vanity-ornate-weaponry)
-- [Vanity: Statue Decoration](https://modrinth.com/project/vanity-statue-decoration)
+- [Vanity: Aesthetic Armory](https://modrinth.com/project/vanity-aesthetic-armory) `1.1.1`
+- [Vanity: Ancient Tool Variants](https://modrinth.com/project/vanity-ancient-tool-variants) `3.0.0`
+- [Vanity: Colossal Weapons](https://modrinth.com/project/vanity-colossal-weapons) `1.0.2`
+- [Vanity: Core](https://modrinth.com/project/vanity-core) `5.0.3`
+- [Vanity: Deep Forged](https://modrinth.com/project/vanity-deep-forged) `1.3`
+- [Vanity: Ornate Weaponry](https://modrinth.com/project/vanity-ornate-weaponry) `3.0.0`
+- [Vanity: Statue Decoration](https://modrinth.com/project/vanity-statue-decoration) `1.0`
+- [vista](https://modrinth.com/project/vista_tv)
+- [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes)
+- [Vista Aeronautics Fix](https://modrinth.com/project/vista-aeronautics-fix)
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.3.6`
 - [Windy](https://modrinth.com/project/windy) `1.1.1+1.21-neoforge`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`

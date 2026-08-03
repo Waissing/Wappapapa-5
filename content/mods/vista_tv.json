@@ -1,0 +1,18 @@
+{
+  "name": "vista",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zuARv1N7",
+      "slug": "vista_tv"
+    }
+  },
+  "dependents": [
+    "ayWsj31j"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
