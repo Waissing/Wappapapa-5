@@ -721,10 +721,6 @@
                       "sha1":  "c1bea025ca3f579534024e6c72d6cd125f9f7755"
                   },
                   {
-                      "path":  "content/mods/selene.json",
-                      "sha1":  "558f6fe642f2a60460fb5554106a87fe56b4243a"
-                  },
-                  {
                       "path":  "content/mods/shoulder-surfing-reloaded.json",
                       "sha1":  "f1601dfcd55a4e76fe8484f5c655ee703fc2f540"
                   },
@@ -921,16 +917,8 @@
                       "sha1":  "75b71a6d4e9aef64f12b9dc020dd8c9953578443"
                   },
                   {
-                      "path":  "content/mods/vista-aeronautics-fix.json",
-                      "sha1":  "28c7c8f0bab1d73ce1ad555a6c53ed125c7d7a1b"
-                  },
-                  {
                       "path":  "content/mods/vista-all-the-cassettes.json",
                       "sha1":  "9d5614bf3b01eca0d1701f1bc8b48534feb757d4"
-                  },
-                  {
-                      "path":  "content/mods/vista.json",
-                      "sha1":  "7fecbd78787b8e80a22fe796b137dd55a2396c98"
                   },
                   {
                       "path":  "content/mods/vista_tv.json",
