@@ -1,16 +1,26 @@
 {
-  "name": "Stohun's Vanity Collection",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "efWNOYII",
-      "slug": "stohuns-vanity-collection"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "Stohun\u0027s Vanity Collection",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "efWNOYII",
+                                     "slug":  "stohuns-vanity-collection",
+                                     "pin":  "qNXKP5uB",
+                                     "versionId":  "qNXKP5uB",
+                                     "versionNumber":  "1.0.0",
+                                     "filename":  "stohuns_vanity_collection-1.0.0.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/efWNOYII/versions/qNXKP5uB/stohuns_vanity_collection-1.0.0.jar",
+                                     "sha1":  "01ba46855d8ae10d3edfe59ce7b60edef8dcd59e",
+                                     "sha512":  "5fae3e4705a44a4987b525258bfc3ad93ee39a61e5ffcb5fd69d3a38c3ab0ccc96449395f240bf9546a0bf33491aae1bfd4c4be4c6ad711b491c62daafdcc364",
+                                     "fileSize":  179841
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }

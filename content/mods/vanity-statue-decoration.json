@@ -1,16 +1,26 @@
 {
-  "name": "Vanity: Statue Decoration",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "slwVlKuo",
-      "slug": "vanity-statue-decoration"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "Vanity: Statue Decoration",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "slwVlKuo",
+                                     "slug":  "vanity-statue-decoration",
+                                     "pin":  "uhvtNNG1",
+                                     "versionId":  "uhvtNNG1",
+                                     "versionNumber":  "1.0",
+                                     "filename":  "vanity_statue_decorations-1.0.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/slwVlKuo/versions/uhvtNNG1/vanity_statue_decorations-1.0.jar",
+                                     "sha1":  "c5233c2c089ff11cb367c68a8beae632770f852a",
+                                     "sha512":  "81f527a3994c67ead0b35e83ff3fbd621a245c24cf97053b2bb44059566f95104015a9964e1fab06675e7a6dad7d688f0f420150d2056509752bb2e3f0f40c45",
+                                     "fileSize":  21856
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }
