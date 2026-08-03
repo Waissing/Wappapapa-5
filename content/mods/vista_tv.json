@@ -1,18 +1,26 @@
 {
-  "name": "vista",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "zuARv1N7",
-      "slug": "vista_tv"
-    }
-  },
-  "dependents": [
-    "ayWsj31j"
-  ],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "vista",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "zuARv1N7",
+                                     "slug":  "vista_tv",
+                                     "pin":  "r6IGPoXU",
+                                     "versionId":  "r6IGPoXU",
+                                     "versionNumber":  "1.21.1-5.2.5",
+                                     "filename":  "vista-neoforge-1.21.1-5.2.5.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/zuARv1N7/versions/r6IGPoXU/vista-neoforge-1.21.1-5.2.5.jar",
+                                     "sha1":  "17e39d45b0dea3d23b9f2bca2ab0408153023ba1",
+                                     "sha512":  "59c5f362dffbab787ec946cded2d8ebf734e03848788bad2b095b743b3f29ef585a532fcae9128562343df3a973791f92cfe9d27bd76747b991eb8078e17a03e",
+                                     "fileSize":  5729706
+                                 }
+                },
+    "dependents":  [
+                       "ayWsj31j"
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }
