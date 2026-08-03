@@ -1,0 +1,16 @@
+{
+  "name": "Vanity: Ancient Tool Variants",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UHJHjAMr",
+      "slug": "vanity-ancient-tool-variants"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vanity: Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kEcg2xYc",
+      "slug": "vanity-core"
+    }
+  },
+  "dependents": [
+    "MfuSR2k8",
+    "PzD3qsuR",
+    "UHJHjAMr",
+    "WGTY6Lgi",
+    "efWNOYII",
+    "slwVlKuo",
+    "vEDzaSHn"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

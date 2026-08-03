@@ -1,0 +1,16 @@
+{
+  "name": "Vanity: Colossal Weapons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PzD3qsuR",
+      "slug": "vanity-colossal-weapons"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

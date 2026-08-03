@@ -1,0 +1,16 @@
+{
+  "name": "Stohun's Vanity Collection",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "efWNOYII",
+      "slug": "stohuns-vanity-collection"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

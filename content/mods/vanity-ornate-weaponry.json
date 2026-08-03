@@ -1,0 +1,16 @@
+{
+  "name": "Vanity: Ornate Weaponry",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MfuSR2k8",
+      "slug": "vanity-ornate-weaponry"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

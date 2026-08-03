@@ -1,0 +1,16 @@
+{
+  "name": "Vanity: Aesthetic Armory",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vEDzaSHn",
+      "slug": "vanity-aesthetic-armory"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

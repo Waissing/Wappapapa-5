@@ -1,0 +1,16 @@
+{
+  "name": "Vanity: Statue Decoration",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "slwVlKuo",
+      "slug": "vanity-statue-decoration"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vanity: Deep Forged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WGTY6Lgi",
+      "slug": "vanity-deep-forged"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
