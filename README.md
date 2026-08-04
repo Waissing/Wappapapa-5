@@ -1,6 +1,6 @@
 # Wappa 5
 
-**Minecraft 1.21.1 · neoforge 21.1.235**, 243 mods (2 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.235**, 243 mods
 
 ## Contents
 
@@ -157,6 +157,7 @@
 - [Places](https://modrinth.com/project/places) `0.4.9`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.1.0+1.21.1`
 - [Portfolio](https://modrinth.com/project/portfolio) `1.5.5-neoforge`
+- [Post It!](https://modrinth.com/project/post-it)
 - [Potion of Haste](https://modrinth.com/project/potion-of-haste) `1.0+1.21.1`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
@@ -235,7 +236,6 @@
 - [Vanity: Statue Decoration](https://modrinth.com/project/vanity-statue-decoration) `1.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.2.5`
 - [Vista - All The Cassettes](https://modrinth.com/project/vista-all-the-cassettes) `1.2.0+neoforge.mc1.21.1`
-- Vista Aeronautics Fix `VistaAeronauricsFix-1.0.1` (curseforge)
 - [Wakes Reforged](https://modrinth.com/project/wakes-reforged) `1.3.6`
 - [Windy](https://modrinth.com/project/windy) `1.1.1+1.21-neoforge`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`
