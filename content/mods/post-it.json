@@ -1,16 +1,26 @@
 {
-  "name": "Post It!",
-  "side": "auto",
-  "explicit": true,
-  "disabled": false,
-  "preferred": "modrinth",
-  "sources": {
-    "modrinth": {
-      "id": "W45bEW8v",
-      "slug": "post-it"
-    }
-  },
-  "dependents": [],
-  "clientSide": "required",
-  "serverSide": "required"
+    "name":  "Post It!",
+    "side":  "both",
+    "explicit":  true,
+    "disabled":  false,
+    "preferred":  "modrinth",
+    "sources":  {
+                    "modrinth":  {
+                                     "id":  "W45bEW8v",
+                                     "slug":  "post-it",
+                                     "pin":  "AFjbcB2x",
+                                     "versionId":  "AFjbcB2x",
+                                     "versionNumber":  "1.0.1",
+                                     "filename":  "postit-1.0.1.jar",
+                                     "downloadUrl":  "https://cdn.modrinth.com/data/W45bEW8v/versions/AFjbcB2x/postit-1.0.1.jar",
+                                     "sha1":  "0480b58f8893ed418bd147733349fb21789840fe",
+                                     "sha512":  "d0520c20a3676d4fed8c21a331066ceb415f2d5a1650876d0c3da075588dfebe404534761d43250dea1f6fda4a4d3185bf841a41e47285a9b47268214073deb2",
+                                     "fileSize":  70958
+                                 }
+                },
+    "dependents":  [
+
+                   ],
+    "clientSide":  "required",
+    "serverSide":  "required"
 }
